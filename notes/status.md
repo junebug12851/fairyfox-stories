@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.1.0` (single source of truth: repo-root `VERSION`).
+**Version:** `0.2.0` (single source of truth: repo-root `VERSION`).
 
 ## Current state (read this first)
 
@@ -44,7 +44,9 @@ comprehensive sub-note collections). The full build plan is `plans/farm-build-pl
 | Notes + craft body of knowledge | ✅ written (`reference/` incl. `craft/`) |
 | Architecture decided | ✅ Jekyll · form-first · collection · comprehensive sub-notes (`decisions/`) |
 | Jekyll scaffold (collections/layouts/reader) | ✅ built + previewed in Chrome |
-| Book #1 (blueprint + chapter 1) | ✅ "The Cinderwick Job" (caper, Gaslight Reach) — ch.1 of 7 |
+| Books on the shelf | ✅ **5 planted** (caper · cosy magical-realism · SF · gothic · fable), each ch.1 + cover & header art |
+| Authors / universes | ✅ 5 distinct author-personas, 5 universes — meshed + bylined |
+| Cover & chapter art | ✅ generated for all 5 (gpt-image-1 via `scripts/generate-art.mjs`) |
 | Integrity check + CI | ⏳ pending |
 | GitHub Pages (`fairyfox.io/fairyfox-stories/`) | ⛔ enable after first release (owner step) |
 | Hub registration | ⛔ pending (hub-side edit) |
