@@ -1,12 +1,11 @@
 # Signed release — build provenance for each version tag.
 #
-# Per hub/standards/supply-chain-hardening.md #4 (Signed-Releases): on a version tag
-# this packages the static site into a zip, attests keyless SLSA build provenance for
-# it (satisfies the OpenSSF Scorecard Signed-Releases check), and publishes a GitHub
-# Release with the artifact attached.
+# On a version tag this builds the Jekyll site, packages `_site` into a zip,
+# attests keyless SLSA build provenance for it (OpenSSF Scorecard Signed-Releases),
+# and publishes a GitHub Release with the artifact attached.
 #
-# This workflow REACTS to a tag; it does NOT create one. Tagging stays by hand
-# (git-workflow.md "who creates the tag"), so pushing `vX.Y.Z` triggers this run.
+# REACTS to a tag; does NOT create one. Tagging stays by hand, so pushing
+# `vX.Y.Z` triggers this run.
 
 name: Release
 
@@ -25,28 +24,31 @@ jobs:
       id-token: write       # keyless signing for provenance
       attestations: write   # write the build-provenance attestation
     steps:
-      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - uses: actions/checkout@v4
 
-      - name: Assemble the publishable site
-        # Same file set the deploys publish — the actual static site only.
-        run: |
-          mkdir -p _site
-          cp index.html _site/
-          cp -r assets games legal _site/
-          [ -f .nojekyll ] && cp .nojekyll _site/ || true
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build the site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
 
       - name: Package the site
         run: |
           cd _site
-          zip -r "../fairyfox-games-${GITHUB_REF_NAME}.zip" .
+          zip -r "../fairyfox-stories-${GITHUB_REF_NAME}.zip" .
           cd ..
 
       - name: Attest build provenance
-        uses: actions/attest-build-provenance@e8998f949152b193b063cb0ec769d69d929409be # v2.4.0
+        uses: actions/attest-build-provenance@v2
         with:
-          subject-path: "fairyfox-games-*.zip"
+          subject-path: "fairyfox-stories-*.zip"
 
       - name: Publish GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release create "${GITHUB_REF_NAME}" fairyfox-games-*.zip --title "${GITHUB_REF_NAME}" --generate-notes
+        run: gh release create "${GITHUB_REF_NAME}" fairyfox-stories-*.zip --title "${GITHUB_REF_NAME}" --generate-notes
