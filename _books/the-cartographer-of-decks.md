@@ -13,7 +13,7 @@ state: growing
 cover: /stories/the-cartographer-of-decks/art/cover.png
 logline: A ship-born mapmaker charts a deck that appears on no chart — and begins to suspect the Ark Meridian isn't going where four centuries of the faithful believe.
 content_note: Quiet dread and existential unease aboard a sealed ship. Cerebral, not gory.
-updated: 2026-07-04
+updated: 2026-07-10
 date: 2026-07-04
 ---
 
