@@ -19,14 +19,14 @@
   gap:clamp(1.1rem,2.5vw,1.7rem);justify-content:start;align-items:stretch}
 @media(max-width:520px){.shelf{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}}
 
-.book-card{display:flex;flex-direction:column;overflow:hidden;padding:0;
+.book-card{position:relative;display:flex;flex-direction:column;padding:0;
   text-decoration:none;color:inherit;transition:transform .18s var(--ease),box-shadow .18s var(--ease)}
 .book-card:hover{transform:translateY(-4px)}
 
 /* Cover — portrait, like a real book spine-face. */
 /* Square cover — ~25% shorter than the old 3:4 portrait, and matches the square generated art. */
 .book-cover{position:relative;aspect-ratio:1/1;background:var(--panel-2);overflow:hidden;
-  border-bottom:1px solid var(--line)}
+  border-bottom:1px solid var(--line);border-radius:var(--radius) var(--radius) 0 0}
 .book-cover img{width:100%;height:100%;object-fit:cover;display:block}
 .cover-fallback{width:100%;height:100%;display:grid;place-items:center;padding:1rem;text-align:center;
   background:linear-gradient(150deg,var(--panel-3),var(--panel));}
@@ -36,7 +36,30 @@
 .book-body{display:flex;flex-direction:column;gap:.5rem;padding:.85rem .95rem 1rem;flex:1}
 .book-card .tags{display:flex;gap:.4rem;flex-wrap:wrap}
 .book-card h3{font-family:var(--display);font-weight:600;font-size:1.12rem;line-height:1.2;margin:0}
-.book-card .blurb{color:var(--text-soft);font-size:.9rem;line-height:1.5;margin:0}
+.book-card h3 a{color:inherit;text-decoration:none}
+
+/* ── "What it's about" — logline behind a ? in the top-right corner ────────
+   Mirrors the fairyfox hub's project-card help control. The title link is the
+   real click target and stretches over the whole card; the ? sits above it. */
+.book-stretch::after{content:"";position:absolute;inset:0;z-index:1}
+.book-card:hover h3 a,.book-card h3 a:focus-visible{text-decoration:underline}
+
+.proj-help{position:absolute;top:.7rem;right:.7rem;z-index:4;width:1.55rem;height:1.55rem;
+  flex:0 0 auto;padding:0;display:grid;place-items:center;border-radius:50%;
+  border:1px solid var(--line);background:color-mix(in srgb,var(--panel-3) 82%,transparent);
+  -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);color:var(--text-faint);cursor:help;
+  transition:color .15s var(--ease),border-color .15s var(--ease),background .15s var(--ease)}
+.proj-help .proj-help-mark{font-family:var(--sans);font-size:.82rem;font-weight:700;line-height:1}
+.proj-help:hover,.proj-help:focus-visible{color:var(--text);
+  border-color:color-mix(in srgb,var(--pc,var(--accent)) 55%,var(--line));
+  background:color-mix(in srgb,var(--pc,var(--accent)) 16%,var(--panel-3))}
+.proj-help:focus{outline:none}
+.proj-tip{position:absolute;top:calc(100% + .5rem);right:0;z-index:6;width:max-content;max-width:15rem;
+  padding:.62rem .72rem;background:var(--panel);border:1px solid var(--line-2);border-radius:.6rem;
+  box-shadow:var(--shadow-lg);color:var(--text-soft);font-size:.82rem;font-weight:400;line-height:1.5;
+  text-align:left;opacity:0;visibility:hidden;transform:translateY(-.25rem);pointer-events:none;
+  transition:opacity .15s var(--ease),transform .15s var(--ease),visibility .15s}
+.proj-help:hover .proj-tip,.proj-help:focus-visible .proj-tip{opacity:1;visibility:visible;transform:translateY(0)}
 
 /* ── Progress bar ───────────────────────────────────────────────────────── */
 .progress{height:6px;border-radius:999px;background:color-mix(in srgb,var(--line) 70%,transparent);

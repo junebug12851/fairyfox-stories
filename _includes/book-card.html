@@ -7,7 +7,13 @@
 {%- assign written = site.chapters | where: "book", b.slug | size -%}
 {%- assign pct = 0 -%}
 {%- if planned > 0 -%}{%- assign pct = written | times: 100 | divided_by: planned -%}{%- endif -%}
-<a class="card book-card proj-card" href="{{ b.url | relative_url }}" data-updated="{{ b.updated | default: b.date | date: '%Y-%m-%d' }}">
+<article class="card book-card proj-card" data-updated="{{ b.updated | default: b.date | date: '%Y-%m-%d' }}">
+  {%- if b.logline -%}
+  <button type="button" class="proj-help" aria-label="What {{ b.title | escape }} is about">
+    <span class="proj-help-mark" aria-hidden="true">?</span>
+    <span class="proj-tip" role="tooltip">{{ b.logline }}</span>
+  </button>
+  {%- endif -%}
   <div class="book-cover">
     {%- if b.cover -%}
       <img src="{{ b.cover | relative_url }}" alt="Cover of {{ b.title }}" loading="lazy">
@@ -20,10 +26,9 @@
       <span class="tag">{{ b.form }}</span>
       {%- if b.genre %}<span class="tag">{{ b.genre }}</span>{% endif -%}
     </div>
-    <h3>{{ b.title }}</h3>
+    <h3><a class="book-stretch" href="{{ b.url | relative_url }}">{{ b.title }}</a></h3>
     {%- assign cardauthor = site.authors | where: "slug", b.author | first -%}
     {%- if cardauthor %}<p class="card-byline">by {{ cardauthor.title }}</p>{% endif -%}
-    {%- if b.logline %}<p class="blurb">{{ b.logline }}</p>{% endif -%}
     <div class="progress" role="img" aria-label="{{ written }} of {{ planned }} chapters written">
       <div class="progress-bar" style="width: {{ pct }}%"></div>
     </div>
@@ -41,4 +46,4 @@
       {%- endif -%}
     </div>
   </div>
-</a>
+</article>
