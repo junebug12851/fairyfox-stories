@@ -7,7 +7,7 @@ role: Junior cartographer of the Ark Meridian
 
 Sela Renn is a junior in the Cartographers' Office, third generation to hold a drafting stylus, and
 she is very good at it — good the way people are good at things they use to avoid other things. She
-is in her mid-twenties, precise, dutiful, and more comfortable with a corridor than a conversation.
+is thirty-one, precise, dutiful, and more comfortable with a corridor than a conversation.
 
 ## What she wants (and needs)
 
