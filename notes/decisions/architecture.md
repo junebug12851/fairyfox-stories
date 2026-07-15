@@ -2,6 +2,34 @@
 
 Newest first. Each: the decision, why, and what it rules in/out.
 
+## 2026-07-15 — Sequel-lock: first exercise, and recording it at planting
+
+Planting *The Blindfold Act*, the **sequel-lock roll came up locked** (`5` ≤ ~10%) — the first time
+in the farm's life. The grow runs had flagged this as broken ("no `sequelLock` field exists; every
+completed book is eligible for the weekly roll forever"). Decision: **implement the producing half
+now, at planting** — write `sequelLock: true` into the book manifest as the honest, durable record of
+the roll — and leave the **consuming half** to the daily/sequel job. **Why:** the roll belongs to the
+plant sequence (`operating-model.md` step 6), so the plant job is the right place to *record* it;
+recording is inert and safe (the integrity check already accepts the `complete-no-sequel` state and
+the shelf card already renders its "✦ Complete · no sequel" marking), so this advances the flagged gap
+without a risky behavioural change. **Rules in/out:** a `sequelLock: true` book stays `growing` and
+shows normal progress until its last chapter; the field does nothing on its own. What still needs the
+sibling job (recorded as the open half): (a) on completing a locked book, set `state:
+complete-no-sequel` rather than `complete`; (b) exclude locked books from the weekly sequel roll. Until
+then the field is a truthful marker, not yet a working exclusion. The lock is per-**book**, not
+per-universe — The Sawdust Circuit can still grow other, unlocked tales.
+
+## 2026-07-15 — A grounded, non-magical realm is a valid universe
+
+*The Blindfold Act* founds **The Sawdust Circuit** — a 1920s travelling-carnival America with **no
+magic at all** (the only "magic" is the con). Decision: a real-world, historically-grounded setting
+counts as a full universe, not a lesser one. **Why:** `universe-system.md` explicitly allows "our
+world, bent," a universe is a *setting bible* (texture, figures, forces, code) rather than a magic
+system, and the shelf's realms were **all speculative** — a grounded realm is exactly the range the
+genre-range mandate asks for. **Rules in/out:** a universe needs a coherent bible and canon (here: the
+code *with it and for it*, the show-as-sealed-family, the law-to-be-squared, the restrained register),
+not a supernatural premise; grounded and speculative realms are peers on the shelf.
+
 ## 2026-07-10 — Reading the join/reuse rolls as a craft brief, not a shortcut
 
 Planting *Every Lock but Hers* rolled **join an existing universe** (0.95) **+ reuse an existing
