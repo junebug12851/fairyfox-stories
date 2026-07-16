@@ -13,7 +13,7 @@ state: growing
 cover: /stories/every-lock-but-hers/art/cover.png
 logline: A night locksmith can open any door in the city except the one she bolted on her own brother — until, for one hour after midnight, a lock starts opening onto the places she's spent three years refusing to go.
 content_note: Estrangement, a brother's old trouble, an eviction, grief kept at arm's length. Warm and hopeful, not bleak; nothing graphic. A standalone.
-updated: 2026-07-14
+updated: 2026-07-16
 date: 2026-07-10
 ---
 

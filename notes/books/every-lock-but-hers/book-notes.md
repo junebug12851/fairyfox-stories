@@ -60,8 +60,27 @@ gap the grow loop shouldn't repeat (a planted book gets its bible on planting da
 - The magic is never the fix; it only ever hands her the truth and waits. Ch.9 is where she pays the
   whole one; everything before it is her finding smaller change and refusing to break the note.
 
+## Added in ch.3–4 — locked
+
+- **Ch.3 "Sully's Keys":** Sully = **Mr. Ilesanmi**, 78, ex-signalman (Thorne Junction, 1974 snow, mate
+  **Peters**), 2nd floor Harrowgate Court, balcony garden, disastrous tomatoes. Hides his own keys from
+  himself (fridge, clock, socks, biscuit-tin lid…) so *someone comes* — grief, not going soft; keys
+  found in the pocket of a **navy coat that isn't his**, scarf still tucked in. His line: *a key gets
+  lost (no blame); a key you hide is a thing you've done, and the gift of hiding it from yourself is you
+  never have to say why.* Nell finally accepts his tea (11 min) — hardest work of her week. No hollow
+  hour spent; she stands at her own door with the true thing behind her teeth and pays nothing.
+- **Ch.4 "The Bolt":** the wound named, in Nell's voice (not the magic). **Theo** = younger brother, the
+  warm one, "born without a door." Three years ago he came owing the wrong people, knocked **once** (then
+  a frightened second) in the rain at the old green door, no.11, and Nell **threw the bolt** — chose the
+  lock over letting the people he owed through it. She's re-cut the lie *he left* ever since; it's come
+  **literally true** — she genuinely can't find him now. Hollow-hour test in the parked van (van key
+  counts): she turns the ignition like anybody, pays nothing, does **not** say the true thing. Full
+  telling is saved for **ch.9**; do not overspend. Trade-lore this chapter = the over-lifted lever binds
+  as hard as the unlifted one.
+
 ## Status
 
-2 / 11 chapters written (hand-drafted). Cover art generated; chapter headers text-only for now
-(budget). Next: **ch.3 "Sully's Keys"** — warmth, comedy, ache; the man who hides his own keys from
-himself and tells her, without knowing it, exactly what she is.
+4 / 11 chapters written (hand-drafted). Cover art generated; chapter headers text-only (budget). Next by
+plan: **ch.5 "What It Costs"** — Nell deliberately learns the mechanism and spends a *small* true thing
+to reach a good memory, feeling how saying it aloud changes her. Then **ch.6 "The Job She Can't Do"**
+(Dani).

@@ -37,4 +37,20 @@
   nothing to do, and that is the horror.
 - **Open thread:** the three earlier companions "went." Where they went is deliberately never
   answered in prose (the book is not a murder story) — the dread is that Agnes never presses.
-- **Status:** ch.4 of 11 written (ch.2–4 = "The Comfortable Lie"; ch.5 begins "The Cracks").
+- **Ch.5 (new canon, "The Living Hand"):** Agnes begins, quietly, to *look*. Charlotte starts a
+  Christian name for a former companion — "Ellen—" — and swallows it (Miss Loder was an Ellen). The
+  writing-slope on the walnut table holds a sealed letter *To my son Aldous, to be given him on his
+  wedding morning* in Mrs Ravenscar's hand — **ink black, not brown, lately dried**: the mistress is
+  *kept up*, someone sits at the slope and is her. The night-fire: laid red before Agnes rises, no
+  servant admits it. Mrs Hale: *"Nobody lays that fire in the night… it's best you get used to it being
+  laid."*
+- **Ch.6 (new canon, "The Woman in the Ground"):** Christmas. The family does **not** go to Fellgate
+  church (three miles down the ridge) — they stay and keep *her*; Agnes goes alone and feels the house's
+  reach only once outside it. The parish **pities** her like the bereaved (worn smooth, past gossip). In
+  the churchyard, the grave: **HONORIA RAVENSCAR — Wife of Aldous, Mother of Aldous and Charlotte**,
+  died twelve years ago that spring, epitaph *She is not here*, moss kept clear of the letters by a
+  faithful hand. **The mistress's Christian name is Honoria** — spoken nowhere in the house, given only
+  to the ground. An old woman, graveside-plain: *"There've been three or four of you… We don't see them
+  come down."* (Still: where the companions went stays unanswered — not a murder story.) Rector is
+  **Mr Marchbank**, comes up at the New Year to read to *her*.
+- **Status:** ch.6 of 11 written (ch.5–7 = "The Cracks"; ch.7 continues before "The Secret" at ch.8–9).

@@ -57,10 +57,32 @@ Private continuity + voice bible. Not published (under `notes/`, excluded from t
 - The rival finder (Ch.4) — reckless, charming, "better than he should be"; his true loyalty is the
   Ch.6 reveal. Name/design TBD when writing Ch.4 (give him his own want).
 
+## Added in ch.3–5 — locked
+
+- **Ch.3 "The Cage":** the viewing; Crane greets Juno by name and invites her to bid — wants her inside.
+  She realises the Ordinal set the "client" on her.
+- **Ch.4 "The Second Thief":** the rival = **Kit Sorrel**, ~26, reckless/charming, "better than he
+  should be," reads drawings *and* mendings; hired **Saturday**, before Juno (Pell put it to her Monday)
+  — proof Crane wanted two clever people tripping over each other, not a bird stolen. Their bidder chits
+  are **consecutive** (Juno **214**, Kit **215**), printed same sheet. Kit found the trap's road in: the
+  1847 mending filled the 1809 north-wall strongroom passage (**~9 ft behind the consignment window /
+  clerk**) and sank the visible stair up through the auction floor (*seen* as a better lock than shut).
+  The **Draughtsman** (Understair, off Gallow Row, ~90) sold the Cage drawings to both. Forced alliance;
+  Juno's rule = *a plan with a second person's fear in it* — the one lock she can't pick. She takes it
+  anyway ("the truth about the fourth thing" stays unspoken between them).
+- **Ch.5 "The Auction":** heist night. North-wall passage dry-set and **opened for them**. Lift off the
+  iron perch is beautiful — then the **Nightingale sings unbidden**: Crane's own genteel voice arranging
+  the whole trap (print the numbers on one sheet, opposite ends of the city, Sorrel told nothing, "I only
+  want them holding it when the room closes"). Under it, forty years down, the bird riffles **one older
+  voice — *Wren, Junia… she'll not be missed. Deliver her Tuesday*** — the man who sold Junia Wren; nearly
+  buckles Juno, **NOT resolved** (ch.7 wins by trusting a person, not by hearing that voice — hold the
+  line). The passage goes dark behind them (Crane's two domestic sounds, now real). Cornered, Juno
+  decides to bet on Kit's fear: *"I'm going to tell you the truth about the fourth thing."* → ch.6.
+
 ## Status
 
-2 of 7 chapters written (hand-drafted; replaces the retired grief-themed book #1 per owner feedback).
-Chapters 3–7 to be drafted one whole chapter at a time, re-reading the prior chapter + these notes
-for continuity and voice. Next: **ch.3 "The Cage"** — the viewing, three nights on; Magister Crane
-greets her by name and *invites her in*. Cover + ch.1 header art generated; grow chapters text-only
-(budget).
+5 of 7 chapters written (hand-drafted). Next: **ch.6 "The Double-Cross"** — betrayals resolve (Kit's
+true loyalty, the client's identity, Crane's real want: Juno in his debt, not the bird); she's cornered.
+Then **ch.7 "The Name"** — she wins by trusting Kit out loud and giving up the solo score; keeps freedom
++ name; the bird ends somewhere Crane can't reach. Cover + ch.1 header art generated; grow chapters
+text-only (budget).
