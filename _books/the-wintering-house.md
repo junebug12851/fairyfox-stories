@@ -13,7 +13,7 @@ state: growing
 cover: /stories/the-wintering-house/art/cover.png
 logline: A companion arrives at a house where one room is always kept warm — for a mistress who is never at home, and whose name the servants will not say.
 content_note: Gothic dread — an eerie house and an inherited secret. Unsettling and sad, never graphic or gruesome.
-updated: 2026-07-16
+updated: 2026-07-18
 date: 2026-07-03
 ---
 
