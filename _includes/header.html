@@ -14,8 +14,19 @@
     <nav class="nav" aria-label="Primary">
       <a href="https://fairyfox.io/">Home</a>
       <a href="https://fairyfox.io/projects/">Projects</a>
-      <a href="{{ '/' | relative_url }}" class="active">Stories</a>
-      <a href="https://fairyfox.io/fairyfox-games/">Games</a>
+      <!-- Farms groups the two "grown daily" collections — Stories + Games. On a Stories
+           page both the <summary> and the Stories link are marked active. -->
+      <details class="dd">
+        <summary class="active">Farms</summary>
+        <div class="dd-panel">
+          <div class="dd-group">
+            <div class="dd-links">
+              <a href="{{ '/' | relative_url }}" class="active">Stories</a>
+              <a href="https://fairyfox.io/fairyfox-games/">Games</a>
+            </div>
+          </div>
+        </div>
+      </details>
       <a href="https://fairyfox.io/docs/">Docs</a>
       <a href="https://fairyfox.io/blog/">Updates</a>
       <a href="https://fairyfox.io/about/">About</a>
@@ -35,6 +46,6 @@
     <a href="{{ '/legal/terms.html' | relative_url }}">Terms</a>
     <a href="{{ '/legal/cookies.html' | relative_url }}">Cookies</a>
     <span class="sep" aria-hidden="true"></span>
-    <a class="ext" href="https://github.com/junebug12851/fairyfox-stories">Source ↗</a>
+    <a class="ext" href="https://github.com/1fairyfox/fairyfox-stories">Source ↗</a>
   </div>
 </nav>

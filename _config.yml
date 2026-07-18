@@ -18,7 +18,7 @@ baseurl: "/fairyfox-stories"
 
 author:
   name: Fairy Fox
-  github: junebug12851
+  github: 1fairyfox
 
 # Site emblem (the Stories mark). Feeds jekyll-seo-tag: publisher logo in JSON-LD,
 # and the default social share card (see the image default under `defaults`).

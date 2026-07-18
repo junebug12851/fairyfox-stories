@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.5.0` (single source of truth: repo-root `VERSION`).
+**Version:** `0.5.1` (single source of truth: repo-root `VERSION`).
 
 **Automation:** the farm loop now runs unattended via a **daily scheduled job (midnight,
 America/Denver)** — grow 2 books, plant one when 3+ days have passed, **auto-publish to `main`**.
@@ -53,6 +53,22 @@ the blend correctly rotated it back for one run (it returns to the front next ru
 on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
 
 ## Next
+
+- **On `dev`, awaiting release + a browser pass (v0.5.1, 07-18 third run):** adopted two hub updates —
+  the **owner rename `junebug12851` → `1fairyfox`** and the **0.16.0 chrome** (reader line-spacing/width
+  now story-only via `<html data-story>`; Stories+Games grouped under a **Farms** nav dropdown). `npm test`
+  6/6, `jekyll build` clean, built HTML verified. **Not released** — the chrome change is visual and Chrome
+  wasn't connected, so it needs a hard-reload pass (Farms dropdown desktop+mobile; reader panel un-locking
+  line-spacing/width on a chapter and locked-with-note off a story) before `main`. Report:
+  `notes/fairyfox-reports/2026-07-18-adopting-updates.md`.
+- **Needs Fairy Fox — live homepage 404 (GitHub-side).** `fairyfox.io/fairyfox-stories/` serves empty/404
+  site-wide while `1fairyfox.github.io/fairyfox-stories/` works and `fairyfox.io/fairyfox-games/` works. Local
+  build is clean — it's GitHub-Pages custom-domain routing, tied to the account rename (apex `fairyfox.io` is
+  on repo `junebug12851.github.io`, no longer a user site under `1fairyfox`) and an in-flight
+  DigitalOcean→Namecheap DNS move. Re-running the Pages deploy did not help. Fix is DNS + Pages-settings side:
+  finish the Namecheap records (GitHub A records `185.199.108–111.153`, or a `1fairyfox.github.io` CNAME) and
+  re-verify the domain; the durable structural fix is renaming the user-site repo `junebug12851.github.io` →
+  `1fairyfox.github.io`.
 
 - **The weekly sequel roll is due on the next run on or after 2026-07-21.** Three eligible completed
   series: **The Launderette, The Girl Who Sold the Wind, The Cartographer of Decks**, each rolling ~25%

@@ -3,7 +3,7 @@
 An **AI-managed story farm**: a growing library of short interactive **books** — genuine
 fiction, fully pre-planned then written a chapter at a time — and, beneath them, a growing
 set of **universes/realms** the books live in. A new book is *planted* at most once every
-three days; existing books are *grown* daily. Built by Fairy Fox (github.com/junebug12851).
+three days; existing books are *grown* daily. Built by Fairy Fox (github.com/1fairyfox).
 Part of the fairyfox.io project mesh; **contributions welcome** (public repo). Served at
 `fairyfox.io/fairyfox-stories/`.
 
@@ -99,7 +99,7 @@ These are **not** throwaway drafts. They are first-class works that earn ongoing
 ## Build / Run
 
 You CAN build, test, run, commit, and push — via PowerShell on the local machine (git +
-`gh` authed as `junebug12851`; Node 18+). CI runs tests on every push and PR; Pages deploys
+`gh` authed as `1fairyfox`; Node 18+). CI runs tests on every push and PR; Pages deploys
 on push to `main`.
 
 **Tooling (non-negotiable, per `notes/reference/agent-tooling.md`):** use **PowerShell + the

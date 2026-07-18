@@ -1,9 +1,9 @@
 # Fairy Fox Stories
 
-[![CI](https://img.shields.io/github/actions/workflow/status/junebug12851/fairyfox-stories/ci.yml?branch=main&style=flat-square&logo=githubactions&logoColor=white&label=CI)](https://github.com/junebug12851/fairyfox-stories/actions/workflows/ci.yml)
-[![Version](https://img.shields.io/github/v/tag/junebug12851/fairyfox-stories?style=flat-square&label=version)](https://github.com/junebug12851/fairyfox-stories/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/1fairyfox/fairyfox-stories/ci.yml?branch=main&style=flat-square&logo=githubactions&logoColor=white&label=CI)](https://github.com/1fairyfox/fairyfox-stories/actions/workflows/ci.yml)
+[![Version](https://img.shields.io/github/v/tag/1fairyfox/fairyfox-stories?style=flat-square&label=version)](https://github.com/1fairyfox/fairyfox-stories/releases)
 [![Read](https://img.shields.io/badge/read-fairyfox.io-4c9?style=flat-square)](https://fairyfox.io/fairyfox-stories/)
-[![License](https://img.shields.io/github/license/junebug12851/fairyfox-stories?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/1fairyfox/fairyfox-stories?style=flat-square)](LICENSE)
 
 An **AI-managed story farm** — a growing library of short interactive **books** (genuine
 fiction, fully pre-planned then written a chapter at a time) planted in living **universes**

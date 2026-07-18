@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"{% if page.layout == 'chapter' or page.layout == 'book' or page.layout == 'blueprint' %} data-story{% endif %}>
 <head>
 {% include head.html %}
 </head>
