@@ -151,6 +151,46 @@ bleak.
   ("you are a sick woman, Ada Prewitt") — first use in the prose. Ration it; the name coming off the
   act is a ch.6 move.
 
+## Ch.3 — new canon (2026-07-19)
+
+- **Chapter-opening tradecraft pattern held:** ch.1 opens on the trick, ch.2 on cold-vs-hot, ch.3 on
+  **the tell** — "A confession is a thing a person gives you. A tell is a thing you take." Ch.4–6
+  should keep opening on a piece of trade doctrine that the chapter then turns against Sonora.
+- **The search:** Dell squared a "voluntary" lot search (cooperation-as-alibi — "a search you volunteer
+  is an alibi with forty signatures"). The deputy found **the coin take — three towns' silver in a feed
+  sack — in the kerosene chest of the prop wagon** at half past ten of the fourth morning. **The
+  folding money was NOT with it**: the thief kept the bills, buried the coin. Sorted, not (only)
+  panicked — "packing for a journey," a getaway stake. This is the money half-surfacing; the bills
+  resolve in ch.5 (Lark's fund).
+- **Fair-play wiring on the hiding place:** the kerosene chest is a **taught** hide — Sonora's own
+  lesson, quotable: *"hot goes next to what burns, child; a searcher's fear is the only lock that never
+  wears."* Third lesson of hers now surfaced in the crime (spare-hasp relock · the arranged face ·
+  the kerosene hide). She still withholds the spare-hasp turn from the sheriff (filed since ch.1).
+- **Bruno off the fender, not back inside:** the coin killed the outside-drifter story ("a stranger robs
+  and runs; this money had been tucked in for the winter"), so the sheriff came off Bruno — but
+  **"Cleared is not brought back. You will want to remember that in three chapters."** Ch.6's clearing
+  must remember Bruno at the tent flap, hat in hands, no step further inside.
+- **The false lead, spent at cost:** the machine leaned on Perro (his crate, his debts, Dell's
+  takeable-back sentences doing the aiming, Ynez's I-always-felt-it chorus). Sonora cleared him
+  **publicly, in the tent, blindfold in her pocket, face bare** — stripped the letter, the begging at
+  the light plant (Colonel's refusal verbatim: *"a man pays for his own act"*), the two months of
+  sending everything. Clearing logic, stated to the sheriff: **"His debts are his alibi"** — debt has
+  a mouth; money near Perro goes same-night, first post; the sack sat three days untouched; and the
+  bills-kept/coin-buried split means someone packing light *toward* somewhere, which Perro has none of.
+- **The Perro cost (the doorway inverted):** he exits on *"You could have asked me quiet."* Sonora, to
+  the reader: "Quiet was six feet away and I had a whole minute." She broke the code (spent a man's
+  gaff) to save a neck — the exact mercy she refused Lark voluntarily. Ch.5 can turn this blade.
+- **Sonora testified against the machine:** her public reading officially moved the thief *inside* the
+  family (Dell's "the show is clean" broken by his own finest instrument). Her standing with Dell/the
+  wall starts burning here; ch.6 collects.
+- **The narrowing + the paid turn:** alone at night she reads the hider (taught + light feet + a
+  *toward*), the clerk lays out "the class roll... not long," she defends with **"Half the lot, I told
+  myself"** — and ends: **"Then I put the lamp out, which is a tell, and I am taking it."** The flaw
+  (not-looking) does the closing beat; ch.4 needs no new clue, per plan — only the courage to stop
+  crediting the alibi she wrote.
+- **Lark does not appear on-page in ch.3** — deliberate: the chapter is the machine and the false lead;
+  her absence *is* the dread. Ch.4 ("The Understudy") reopens on her.
+
 ## Style dials (hold every chapter)
 
 Diction: period-flavoured American vernacular, carny slang used lightly and glossed by context (mark,
