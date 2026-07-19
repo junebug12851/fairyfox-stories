@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.5.1` (single source of truth: repo-root `VERSION`).
+**Version:** `0.5.4` (single source of truth: repo-root `VERSION`).
 
 **Automation:** the farm loop now runs unattended via a **daily scheduled job (midnight,
 America/Denver)** — grow 2 books, plant one when 3+ days have passed, **auto-publish to `main`**.
@@ -21,7 +21,7 @@ automation are all shipped; the site has had two live releases (v0.2.0, v0.2.2).
 its **daily grow** phase — advancing real chapters on the least-tended books. The full build plan is
 `plans/farm-build-plan.md`; the daily loop is `reference/operating-model.md`.
 
-## The shelf (as of v0.5.0)
+## The shelf (as of v0.5.4)
 
 | Book | Form | Progress | Last grown |
 |------|------|----------|-----------|
@@ -31,10 +31,17 @@ its **daily grow** phase — advancing real chapters on the least-tended books. 
 | Every Lock but Hers (magical realism) | novella | 5 / 11 | 2026-07-18 |
 | The Wintering House (gothic) | novella | 7 / 11 | 2026-07-18 |
 | The Cinderwick Job (caper) | novelette | 6 / 7 | 2026-07-18 |
-| The Blindfold Act (mystery · sequel-locked) | novelette | 2 / 6 | 2026-07-17 |
+| The Blindfold Act (mystery · sequel-locked) | novelette | 3 / 6 | 2026-07-19 |
 | **The Hundredth Wind** (fable) | novelette | 1 / 7 | 2026-07-18 (planted) |
 
-**Eight books — three `complete`, five `growing`.** Latest run **07-18 second run (v0.5.0, plant)**:
+**Eight books — three `complete`, five `growing`.** Latest run **07-19 (v0.5.4, grow)**: *The Blindfold
+Act* **ch.3 "The Tells"** (3/6) — no override (roll `49` vs ≤18), blend leader at **0.833** exactly as
+07-18's note predicted. The false lead spent at cost: the coin take surfaces in Perro's kerosene chest
+(bills gone — a getaway stake, packed light), the machine leans on him, and Sonora clears him publicly
+by spending his gaff — the ch.2 doorway mercy inverted ("You could have asked me quiet"). Ends on the
+paid turn: the class-roll narrowing she refuses to finish; the lamp put out as a tell. Sequel roll not
+due (07-21). Full audit in `sessions/2026-07/2026-07-19.md`. Before that, **07-18 second run (v0.5.0,
+plant)**:
 *The Hundredth Wind* — fable novelette (wordCap 14,000, 7 chapters), and **two farm-firsts in one
 draw**: the first **universe-join** (roll 79 → existing; pick → **the Salt Road**, now the first realm
 with two books) and the first **author-reuse** (roll 83 → existing; pick → **Amara Okri** returning to
@@ -54,12 +61,10 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
 
 ## Next
 
-- **On `dev`, awaiting release + a browser pass (v0.5.1, 07-18 third run):** adopted two hub updates —
-  the **owner rename `junebug12851` → `1fairyfox`** and the **0.16.0 chrome** (reader line-spacing/width
-  now story-only via `<html data-story>`; Stories+Games grouped under a **Farms** nav dropdown). `npm test`
-  6/6, `jekyll build` clean, built HTML verified. **Not released** — the chrome change is visual and Chrome
-  wasn't connected, so it needs a hard-reload pass (Farms dropdown desktop+mobile; reader panel un-locking
-  line-spacing/width on a chapter and locked-with-note off a story) before `main`. Report:
+- **v0.5.1–0.5.3 released to `main`** (hub chrome adoption; grow-cadence + art backfill; legal-page
+  reader controls) — but the **browser pass on the 0.16.0 chrome is still owed**: Farms dropdown
+  desktop+mobile; reader panel un-locking line-spacing/width on a chapter (and now the legal pages),
+  locked-with-note off a story. It rides the standing deferred-eyeball item below. Report:
   `notes/fairyfox-reports/2026-07-18-adopting-updates.md`.
 - **Needs Fairy Fox — live homepage 404 (GitHub-side).** `fairyfox.io/fairyfox-stories/` serves empty/404
   site-wide while `1fairyfox.github.io/fairyfox-stories/` works and `fairyfox.io/fairyfox-games/` works. Local
@@ -78,12 +83,12 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   refuses to make), so a sequel to either should be a **new tale in the realm**, not a continuation —
   *Cartographer* has even planted its own hook in-world (**433, Emil Tolver at 31**), deliberately
   unpromised.
-- **The Blindfold Act returns to the front next run.** It sat out 07-18 only because it was grown 07-17
-  (staleness 0.5); at 2/6 it carries the highest incompleteness on the shelf (0.667) and will be stale-2
-  next run, so the blend puts it back at the top. **ch.3 "The Tells"** is next — the fire-eater Perro's
-  debt as the false lead, the money half-surfacing. Ch.2 planted Lark's stove tell and closed the door
-  Sonora shut herself; ch.4's turn later has to cost Sonora the alibi she wrote for the girl, not a new
-  clue.
+- **The Blindfold Act is at its midpoint (3/6, grown 07-19) — ch.4 "The Understudy" is next**, the
+  complicity beat: no new clue needed (ch.3 closed on the class-roll narrowing and the lamp put out) —
+  only the courage to stop crediting the alibi Sonora wrote for the girl. The relock-trick + the stove
+  tell converge; the comfortable-monstrous option opens. Ch.3's new canon to honour: Perro cleared but
+  ruined-small ("You could have asked me quiet"), Bruno cleared but not brought back inside (ch.6 must
+  remember him at the tent flap), Sonora's standing with Dell/the wall now burning.
 - **Cinderwick is one chapter from done.** At 6/7 the caper's finale, **ch.7 "The Name,"** is next
   whenever it's picked — Juno wins not by out-thieving Crane but by trusting Kit out loud and giving up
   the solo score; the Nightingale ends somewhere Crane can't reach; a door left ajar, not a sequel hook.
@@ -120,12 +125,12 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   `6e78be5` at the start of the 07-17 run. On the **v0.4.2 release it went green on the first attempt
   in 42s** — the retry (6×/30s) absorbing the by-design race where `branch-sync` checks `dev` in the
   seconds before the back-merge lands, exactly as designed. **Closed; no longer watch-listed.**
-- **Deferred eyeball (07-11 → 07-18):** Chrome wasn't connected on any recent run (eight grow runs + the
+- **Deferred eyeball (07-11 → 07-19):** Chrome wasn't connected on any recent run (nine grow runs + the
   07-15 and 07-18 plants — the 07-18 plant adds the *Hundredth Wind* card/landing/blueprint/ch.1 to the
-  debt), so new pages were verified structurally (`npm test`) and against the built Jekyll HTML
-  but not read in a browser. All are prose + front-matter changes with no template or CSS edits — but the
-  debt is now **twenty-four grown chapter pages + the *Blindfold Act* card/ch.1 + the three completed-book
-  cards** deep, worth one hard-reload pass over the shelf and the new pages next time a browser is up
+  debt, and 07-19 adds *Blindfold* ch.3), so new pages were verified structurally (`npm test`) and against
+  the built Jekyll HTML but not read in a browser. All are prose + front-matter changes with no template or
+  CSS edits — but the debt is now **twenty-five grown chapter pages + the *Blindfold Act* card/ch.1 + the
+  three completed-book cards** deep, worth one hard-reload pass over the shelf and the new pages next time a browser is up
   (typography, drop cap, overflow, the progress bars — now 45% / 64% / 86% on the three grown books —
   prev/next nav at a book's true last chapter, the **titled fallback cover** on the art-less *Blindfold*
   card, responsiveness). The `complete` state was headless-verified on 07-14 and renders right; the three
@@ -135,7 +140,7 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
 
 | Area | Status |
 |------|--------|
-| Repo + branches (dev/main) | ✅ public repo on GitHub; `dev`/`main` in sync, released through v0.4.3 |
+| Repo + branches (dev/main) | ✅ public repo on GitHub; `dev`/`main` in sync, released through v0.5.4 |
 | Notes + craft body of knowledge | ✅ written (`reference/` incl. `craft/`) |
 | Architecture decided | ✅ Jekyll · form-first · collection · comprehensive sub-notes (`decisions/`) |
 | Jekyll scaffold (collections/layouts/reader) | ✅ built + previewed in Chrome |
@@ -143,7 +148,7 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
 | Authors / universes / characters | ✅ 6 author-personas (**Amara Okri now has two books** — first body-of-work, 07-18), 6 universes (**the Salt Road now holds two books** — first realm to deepen, 07-18), 18 character pages (Basri Yel + Noor + Emir Duqal added 07-18) — meshed + bylined |
 | Cover & chapter art | ✅ **all 8 books have a cover + ch.1 header** (gpt-image-1 via `scripts/generate-art.mjs`) — *The Blindfold Act* and *The Hundredth Wind* backfilled 07-18. The **PLANT task now auto-generates** cover+header for every new book (headers at 1536×1024, not dall-e-3's 1792×1024), so no more text-only fallbacks |
 | Integrity check + CI | ✅ `scripts/check-stories.test.mjs` green (**6 checks** — state/sequel-lock consistency added 07-17), runs on push/PR |
-| GitHub Pages (`fairyfox.io/fairyfox-stories/`) | ✅ live (deploys on tagged release to `main`); last release **v0.4.3**, 2026-07-18 |
+| GitHub Pages (`fairyfox.io/fairyfox-stories/`) | ✅ live (deploys on tagged release to `main`); last release **v0.5.4**, 2026-07-19 |
 | Hub registration | ⛔ pending (hub-side edit) |
 | Writing/art tooling (`.env` OpenAI key) | ✅ `.env` key present; art via `generate-art.mjs` (prose hand-drafted for now) |
 | Self-hosted fonts / no third-party | ✅ vendored from the mesh |
