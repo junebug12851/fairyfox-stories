@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.5.4` (single source of truth: repo-root `VERSION`).
+**Version:** `0.5.5` (single source of truth: repo-root `VERSION`).
 
 **Automation:** the farm loop now runs unattended via a **daily scheduled job (midnight,
 America/Denver)** — grow 2 books, plant one when 3+ days have passed, **auto-publish to `main`**.
@@ -61,6 +61,16 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
 
 ## Next
 
+- **fairyfox adoption 0.16.1→0.20.2 — Phase 1 shipped (v0.5.5); Phase 2 owed (browser).** Adopted the
+  headless batch: 10 new standard notes + 3 refreshed (compliance/process-reports/legal-docs), the
+  **release-by-default** posture (replaces approval-first; a visual change still holds for its Chrome
+  preview), and the **repo-hygiene gate** (`scripts/check-{links,tidy}.mjs`; `check-links` in
+  `npm test` + CI). **Phase 2 (needs a connected Chrome):** the **coins** layer + reader **read-time /
+  read-through / hidden-coin**, chrome bundle 2.2.1 (reader story-only gating on book/chapter pages,
+  Farms dropdown already owed), and the legal **`/legal/coins/`** page + coins/clear-reset disclosure
+  in `legal/*.html` (ships *with* coins — can't disclose an unshipped feature). Report:
+  `notes/fairyfox-reports/2026-07-19-adopting-updates.md` (hub_version 0.20.2). Rides the standing
+  deferred-eyeball debt below.
 - **v0.5.1–0.5.3 released to `main`** (hub chrome adoption; grow-cadence + art backfill; legal-page
   reader controls) — but the **browser pass on the 0.16.0 chrome is still owed**: Farms dropdown
   desktop+mobile; reader panel un-locking line-spacing/width on a chapter (and now the legal pages),

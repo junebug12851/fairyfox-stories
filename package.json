@@ -5,11 +5,12 @@
   "type": "module",
   "description": "Fairy Fox Stories — an AI-managed story farm: short interactive books, planted in living universes and grown a chapter at a time.",
   "scripts": {
-    "test": "node --test \"scripts/**/*.test.mjs\""
+    "test": "node --test \"scripts/**/*.test.mjs\" && node scripts/check-links.mjs",
+    "tidy": "node scripts/check-tidy.mjs"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/junebug12851/fairyfox-stories"
+    "url": "https://github.com/1fairyfox/fairyfox-stories"
   }
 }

@@ -130,12 +130,16 @@ After changes, run this loop **without being asked**:
 2. **Commit + push on `dev`**, staging specific files (never `git add -A`). The **changelog
    entry rides inside the commit** (top of `notes/version/YYYY-MM.md`), and **bump `VERSION`**
    when warranted (PATCH default, MINOR for a milestone like a new book, never MAJOR).
-3. **Get Fairy Fox's explicit approval before releasing to `main`** — release deploys Pages.
-   Commit/push to `dev` freely, then stop and ask. When approved, release the git-flow way:
-   `main` advances only by a `--no-ff`, **tagged** merge via **PR** (`main` is
-   branch-protected): `gh pr create --base main --head dev` → `gh pr checks --watch` →
-   `gh pr merge --merge`, then hand-**tag** `vX.Y.Z` and push it. `release.yml` reacts to the
-   tag.
+3. **Release by default once green — through the CI-gated PR** (mesh brand posture, adopted
+   2026-07-19; replaces the old "get Fairy Fox's approval first" stance). Commit/push to `dev`
+   freely; when the suite is green and it's worth shipping, release the git-flow way: `main`
+   advances only by a `--no-ff`, **tagged** merge via **PR** (`main` is branch-protected):
+   `gh pr create --base main --head dev` → **`gh pr checks --watch`** (wait for CI — this is the
+   real gate) → `gh pr merge --merge`, then hand-**tag** `vX.Y.Z` and push it (`release.yml`
+   reacts to the tag). **Hold only when something's off** — tests fail/can't finish, a visual
+   preview looks wrong, or the change is genuinely risky — then commit WIP to `dev` and report
+   the blocker. **A visual/reading change still holds for its Chrome preview (step 1) before it
+   ships.**
 4. **Back-merge invariant — `dev` must contain `main`.** After every release,
    `git checkout dev && git merge --ff-only main && git push origin dev`.
 
