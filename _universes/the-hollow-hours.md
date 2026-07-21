@@ -41,5 +41,7 @@ the particular tenderness of a city at 1 a.m. Kettles, laundromats, all-night ca
 ## Seeds
 
 - A launderette that washes more than clothes, and the attendant who's afraid to use it on herself.
-- A night bus driver who knows where everyone needs to go but not where he does.
+  *(grew into* The Two-O'Clock Launderette*)*
+- A night bus driver who knows where everyone needs to go but not where he does. *(grew into* The
+  One-O'Clock Bus*)*
 - The one hollow hour a year the magic asks for something back.

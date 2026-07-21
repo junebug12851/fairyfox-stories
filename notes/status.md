@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.6.1` (single source of truth: repo-root `VERSION`).
+**Version:** `0.7.0` (single source of truth: repo-root `VERSION`).
 
 **Automation:** the farm loop now runs unattended via a **daily scheduled job (midnight,
 America/Denver)** — grow 2 books, plant one when 3+ days have passed, **auto-publish to `main`**.
@@ -28,11 +28,11 @@ coin CSS ported into `assets/reader.css`. Local `fairyfox:coins:a` disclosed in 
 clause in Terms, hub `/legal/coins/` linked. This was **Phase 2** of the fairyfox-standards adoption (Phase 1
 = the standards batch in v0.5.6); built + previewed in a connected-Chrome session.
 
-## The shelf (as of v0.6.1)
+## The shelf (as of v0.7.0)
 
 | Book | Form | Progress | Last grown |
 |------|------|----------|-----------|
-| ✅ **The Two-O'Clock Launderette** (magical realism · **sequel pending**) | short story | **3 / 3 — complete** | 2026-07-14 |
+| ✅ **The Two-O'Clock Launderette** (magical realism · sequel: *The One-O'Clock Bus*) | short story | **3 / 3 — complete** | 2026-07-14 |
 | ✅ **The Girl Who Sold the Wind** (fable · **sequel pending**) | novelette | **5 / 5 — complete** | 2026-07-17 |
 | ✅ **The Cartographer of Decks** (SF) | novelette | **6 / 6 — complete** | 2026-07-17 |
 | **Every Lock but Hers** (magical realism) | novella | 6 / 11 | 2026-07-21 |
@@ -40,8 +40,21 @@ clause in Terms, hub `/legal/coins/` linked. This was **Phase 2** of the fairyfo
 | The Cinderwick Job (caper) | novelette | 6 / 7 | 2026-07-18 |
 | The Blindfold Act (mystery · sequel-locked) | novelette | 3 / 6 | 2026-07-19 |
 | The Hundredth Wind (fable) | novelette | 2 / 7 | 2026-07-20 |
+| **The One-O'Clock Bus** (magical realism · **sequel to *Launderette***) | novella | 1 / 10 | 2026-07-21 |
 
-**Eight books — three `complete`, five `growing`.** Latest run **07-21 (v0.6.1, grow)**: *Every Lock
+**Nine books — three `complete`, six `growing`.** Latest run **07-21 second run (v0.7.0, plant)**:
+**The One-O'Clock Bus** — the farm's **first sequel plant**, taking the first of the two queued
+sequel windows (sequel-pick override `68` → no override; staleness picked *Launderette*, tended
+07-14, over *Girl*, 07-17). Magical realism **novella** (form `74`; word-pick `29` → wordCap 24,000;
+10 chapters, finale costed ~1.5×), the Hollow Hours' third book, by returning author **Idris
+Okonkwo-Vance** (author roll `67` → existing, pick `4` — second author-crossing-realms move, and
+pointedly not the parent's author). Sequel-lock `34` → not locked. Abel Mensah, eleven years on the
+Route 9 night service, two records of every night — the official log that lies beautifully and the
+blue notebook that doesn't — vs. auditor Vera Brandt, who is right about records and wrong about
+this route. New tale in the realm, zero plot dependence (`sequelTo:` first used in a manifest);
+Nadia Okafor gets one nod-sized ch.5 scene. Ch.1 "The Route as Printed" written; cover + header
+generated and viewed clean; full audit in `sessions/2026-07/2026-07-21.md`. Earlier the same day,
+**07-21 (v0.6.1, grow)**: *Every Lock
 but Hers* **ch.6 "The Job She Can't Do"** (6/11) — no override (roll `21` vs ≤18), blend leader at
 **0.773** as forecast. The moral hinge: the Marsh Lane closer is Dani and her kid; Dani never opens
 the door and is never named (the thrown bolt, the chained buggy, the drawing taped facing out); Nell's
@@ -110,15 +123,21 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   re-verify the domain; the durable structural fix is renaming the user-site repo `junebug12851.github.io` →
   `1fairyfox.github.io`.
 
-- **The weekly sequel roll ran 07-21 and FIRED TWICE — two pending sequel plants are queued.**
-  *The Two-O'Clock Launderette* rolled `13` and *The Girl Who Sold the Wind* rolled `9` (both ≤25);
-  *The Cartographer of Decks* rolled `37`, cold. **For the plant task (`fairyfox-stories-new`):** the
-  next two planting windows should blueprint these sequels, **one per ≤3-day window**, order chosen by
-  the operating model's least-first + random weighting. Both close their frames deliberately, so each
-  sequel is a **new tale in the realm, not a continuation** (*Launderette* → the Hollow Hours; *Girl* →
-  her realm, Amara Okri's call whether the byline returns). While pending, **both series are excluded
-  from the weekly roll** (eligibility requires no pending sequel), leaving *Cartographer* the only
-  roller. **Next roll due on or after 2026-07-28.**
+- **Sequel queue: 1 of 2 planted.** The 07-21 double-fired roll queued two sequel plants. The
+  **Launderette sequel is now planted** (*The One-O'Clock Bus*, v0.7.0 — this run); **the *Girl Who
+  Sold the Wind* sequel takes the next planting window, eligible on or after 2026-07-24.** It stays
+  a **new tale in her realm (the Salt Road), not a continuation** — Amara Okri's call whether the
+  byline returns (note the realm+author pair already recurred once, in *The Hundredth Wind*; the
+  design should be distinct from both). While its sequel is growing, the *Launderette* series stays
+  out of the weekly roll (as does *Girl* while pending), leaving *Cartographer* the only roller.
+  **Next weekly roll due on or after 2026-07-28.**
+- **The One-O'Clock Bus is at 1/10 — ch.2 "The Auditor" is next**: Vera Brandt in daylight, her
+  fair creed given full weight; Priya Nair assigned to Abel's cab the same week — two watchers, one
+  who can't be lied to and one who shouldn't be. Ch.1 canon to honour is in the book-notes
+  continuity ledger (the fuel-island clock, Bus 17's terms, the hour's spoken-truth fare, Corvus
+  Road's four-words-a-night entry, "thirteen minutes late is a defensible lie," the planted
+  aphorism about self-auditing for ch.8–9). Chapter map + style dials in
+  `notes/books/the-one-oclock-bus/book-notes.md`.
 - **The Blindfold Act is at its midpoint (3/6, grown 07-19) — ch.4 "The Understudy" is next**, the
   complicity beat: no new clue needed (ch.3 closed on the class-roll narrowing and the lamp put out) —
   only the courage to stop crediting the alibi Sonora wrote for the girl. The relock-trick + the stove
@@ -140,8 +159,9 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   bolt left undrawn, keys-on-the-dash, the refused Marsh Lane job passing to a worse firm (Dani's
   clock runs toward ch.11). Ch.7 brief in `notes/books/every-lock-but-hers/book-notes.md`. Both
   novellas are mid-book and will stay in the blend's rotation for several runs yet.
-- **Next plant** eligible on or after **2026-07-21** (last plant *The Hundredth Wind* **07-18**). The
-  finale-at-~1.5× word-pick costing was applied on this plant and stays standing for the next.
+- **Next plant** eligible on or after **2026-07-24** (last plant *The One-O'Clock Bus* **07-21**) —
+  and it belongs to the queued *Girl Who Sold the Wind* sequel (above). The finale-at-~1.5×
+  word-pick costing was applied again this plant and stays standing.
 - **The Hundredth Wind is at 2/7 (grown 07-20) — ch.3 "The First Try" is next.** Mastery fails: the
   perfect stand, the grandest name Basri knows spoken into the glass — and the wind opens his coat
   instead, taking **the cracked stopper** from his breast pocket (planted ch.1, hand-beats held ch.2).
@@ -171,8 +191,9 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   in 42s** — the retry (6×/30s) absorbing the by-design race where `branch-sync` checks `dev` in the
   seconds before the back-merge lands, exactly as designed. **Closed; no longer watch-listed.**
 - **Deferred eyeball (07-11 → 07-21):** Chrome wasn't connected on most recent runs (eleven grow runs + the
-  07-15 and 07-18 plants — the 07-18 plant adds the *Hundredth Wind* card/landing/blueprint/ch.1 to the
-  debt, 07-19 adds *Blindfold* ch.3, and 07-21 adds *Every Lock* ch.6), so new pages were verified
+  07-15, 07-18, and 07-21 plants — the 07-18 plant adds the *Hundredth Wind* card/landing/blueprint/ch.1 to the
+  debt, 07-19 adds *Blindfold* ch.3, 07-21 adds *Every Lock* ch.6 **and the whole of *The One-O'Clock
+  Bus* (card/landing/blueprint/ch.1 + its first `sequelTo` marking)**), so new pages were verified
   structurally (`npm test`) and against
   the built Jekyll HTML but not read in a browser. All are prose + front-matter changes with no template or
   CSS edits — but the debt is now **twenty-seven grown chapter pages + the *Blindfold Act* card/ch.1 + the
@@ -190,11 +211,11 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
 | Notes + craft body of knowledge | ✅ written (`reference/` incl. `craft/`) |
 | Architecture decided | ✅ Jekyll · form-first · collection · comprehensive sub-notes (`decisions/`) |
 | Jekyll scaffold (collections/layouts/reader) | ✅ built + previewed in Chrome |
-| Books on the shelf | ✅ **8 on the shelf — 3 complete, 5 growing** (caper · cosy magical-realism · SF · gothic · fable ×2 · night-city magical-realism novella · carnival mystery); *The Two-O'Clock Launderette* **finished 07-14**, the farm's first completed book; *The Girl Who Sold the Wind* + *The Cartographer of Decks* **both finished 07-17**; *The Blindfold Act* **planted 07-15** (first mystery + first sequel-lock); *The Hundredth Wind* **planted 07-18** — the first universe-join (the Salt Road) and first author-reuse (Amara Okri) |
-| Authors / universes / characters | ✅ 6 author-personas (**Amara Okri now has two books** — first body-of-work, 07-18), 6 universes (**the Salt Road now holds two books** — first realm to deepen, 07-18), 18 character pages (Basri Yel + Noor + Emir Duqal added 07-18) — meshed + bylined |
-| Cover & chapter art | ✅ **all 8 books have a cover + ch.1 header** (gpt-image-1 via `scripts/generate-art.mjs`) — *The Blindfold Act* and *The Hundredth Wind* backfilled 07-18. The **PLANT task now auto-generates** cover+header for every new book (headers at 1536×1024, not dall-e-3's 1792×1024), so no more text-only fallbacks |
+| Books on the shelf | ✅ **9 on the shelf — 3 complete, 6 growing** (caper · cosy magical-realism · SF · gothic · fable ×2 · night-city magical-realism novella · carnival mystery · night-bus magical-realism novella); *The Two-O'Clock Launderette* **finished 07-14**, the farm's first completed book; *The Girl Who Sold the Wind* + *The Cartographer of Decks* **both finished 07-17**; *The Hundredth Wind* **planted 07-18** — first universe-join + first author-reuse; *The One-O'Clock Bus* **planted 07-21** — the farm's **first sequel** (Hollow Hours = first three-book realm) |
+| Authors / universes / characters | ✅ 6 author-personas (Amara Okri and **Idris Okonkwo-Vance** each have two books; Idris is the second author to span realms, 07-21), 6 universes (the Salt Road two books; **the Hollow Hours three** — first three-book realm, 07-21), 21 character pages (Abel Mensah + Vera Brandt + Priya Nair added 07-21) — meshed + bylined |
+| Cover & chapter art | ✅ **all 9 books have a cover + ch.1 header** (gpt-image-1 via `scripts/generate-art.mjs`) — *The Blindfold Act* and *The Hundredth Wind* backfilled 07-18. The **PLANT task now auto-generates** cover+header for every new book (headers at 1536×1024, not dall-e-3's 1792×1024), so no more text-only fallbacks |
 | Integrity check + CI | ✅ `scripts/check-stories.test.mjs` green (**6 checks** — state/sequel-lock consistency added 07-17), runs on push/PR |
-| GitHub Pages (`fairyfox.io/fairyfox-stories/`) | ✅ live (deploys on tagged release to `main`); last release **v0.6.1**, 2026-07-21 |
+| GitHub Pages (`fairyfox.io/fairyfox-stories/`) | ✅ live (deploys on tagged release to `main`); last release **v0.7.0**, 2026-07-21 |
 | Hub registration | ⛔ pending (hub-side edit) |
 | Writing/art tooling (`.env` OpenAI key) | ✅ `.env` key present; art via `generate-art.mjs` (prose hand-drafted for now) |
 | Self-hosted fonts / no third-party | ✅ vendored from the mesh |

@@ -2,6 +2,24 @@
 
 Newest first. Each: the decision, why, and what it rules in/out.
 
+## 2026-07-21 — First sequel plant: sequel semantics + the `sequelTo` manifest field
+
+Planting *The One-O'Clock Bus* (the *Launderette* sequel — the first sequel in farm history) fixed
+three semantics. **(1) A sequel plants into its parent's realm without a universe roll** — the
+operating model already defines a sequel as "tied to the same universe/characters," so rolling
+new-vs-existing would be theatre. All other plant rolls still run (form, word-pick, author,
+sequel-lock). **(2) The author roll is NOT pinned to the parent's author** — it ran normally and
+returned Idris Okonkwo-Vance, not Posy Fell, and that's a feature: a "new tale in the realm, not a
+continuation" is sharpened by a different implied author, and the byline question flagged for the
+*Girl* sequel is likewise the roll's to answer. **(3) The series link is recorded as `sequelTo:
+<parent-slug>` in the child's manifest** — inert to the integrity checker (validation can come
+later if sequels multiply), honest to the mesh, and enough for the weekly-roll bookkeeping
+(a series with a planted-but-incomplete sequel stays out of the roll; tracked in status.md).
+Parent-book presence in the sequel is series canon, kept nod-sized (one Nadia scene), and needs no
+crossing roll; a reader of either book needs nothing from the other. Rules out: sequels as
+continuations (the parent's closed frame stays closed), and physical nesting of any kind — the
+sequel is a first-class book folder like any other.
+
 ## 2026-07-18 — Grow slows to 1 book/day (grow-count resolved); plant now auto-generates art
 
 Two owner-directed changes (Fairy Fox).

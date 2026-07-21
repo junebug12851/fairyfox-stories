@@ -16,4 +16,5 @@ down — and the particular unease of the careful person who begins, quietly, to
 Okonkwo-Vance distrusts grand feeling and trusts the accumulating detail; the emotion arrives late
 and hits harder for it.
 
-*Writes in the Long Quiet.*
+*First appears in the Long Quiet; now writes in the Hollow Hours too — the sealed ship traded for
+a night depot, the instruments for a timetable.*
