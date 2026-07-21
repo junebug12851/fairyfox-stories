@@ -78,9 +78,40 @@ gap the grow loop shouldn't repeat (a planted book gets its bible on planting da
   telling is saved for **ch.9**; do not overspend. Trade-lore this chapter = the over-lifted lever binds
   as hard as the unlifted one.
 
+## Added in ch.5–6 — locked
+
+- **Ch.5 "What It Costs" (2026-07-18):** Nell runs the mechanism as a deliberate experiment ("the
+  survey," at the Ferrier Street lock-up, an **uncut brass blank** in hand — the magic cares about the
+  hand, not the metal). The small truth spent: *"I let him in. When we were small. Every time. I was the
+  one who let him in"* — she taught herself the whole trade letting Theo back in through their own front
+  door (hairpin, bent spoke, ear to the wood; his line through the door: *"Nell. Nell. I can hear you
+  doing it."*). The door opened onto the old hallway — and **shut before Theo's face**. The finding:
+  **the magic gives the reaching, not the arriving**; the arriving is held hostage against the whole
+  truth. Cost in the body: a spent truth leaves a **cold spot** where a "warm stone" was; and spending
+  the small one made the big one **cheaper to say** — she *wants* to pay it now, which frightens her
+  more than the cost. Since the survey she can **feel the hollow hour arrive** (the give at the edges).
+- **Ch.6 "The Job She Can't Do" (2026-07-21):** the Marsh Lane closer (end terrace, ground floor, black
+  door; sheet said empty, lamp said otherwise). **Dani** never opens the door and is never named to
+  Nell — a voice behind thrown bolts ("You're no one. No offence."), the kid's *"Is it the man?"*, the
+  **chained buggy**, **red frog wellies**, and the felt-tip **drawing taped facing out**: three stick
+  people holding hands, smiling, *outside* the house. Nell kneels ear-to-wood (the childhood shape) and
+  walks. **First refusal in fifteen years** — and she deliberately does NOT tick the "occupied" box
+  (the clean out): *"It's not that she's in. I'm not doing this one."* — *"Who do I say refused?" /
+  "Corrigan. The one who doesn't refuse."* She knows refusing ≠ saving: another firm will do it inside
+  a week (ch.11 must square the eviction for real). New trade-lore: **a lock is a question; a bolt is a
+  door's mind made up** — only the hand that threw it can draw it. Keys-on-the-dash habit born (she no
+  longer trusts her mouth in the hollow hour; she waits till ten past two to phone). **Mar breaks the
+  ritual:** "Come in and see me. Tomorrow. Daylight… There's a thing I've been not saying to you for
+  three years" — starts *"There is no—"* and stops **deliberately** (doing it properly, not the usual
+  cut-off). And Nell, home: **first night in three years she leaves her own bolt undrawn** — locked
+  like anybody, not bolted. She sleeps.
+
 ## Status
 
-4 / 11 chapters written (hand-drafted). Cover art generated; chapter headers text-only (budget). Next by
-plan: **ch.5 "What It Costs"** — Nell deliberately learns the mechanism and spends a *small* true thing
-to reach a good memory, feeling how saying it aloud changes her. Then **ch.6 "The Job She Can't Do"**
-(Dani).
+6 / 11 chapters written (hand-drafted). Cover art generated; chapter headers text-only (budget). Next by
+plan: **ch.7 "What Mar Holds"** — daylight, Mar's office, the debt revealed: Mar covered for Nell the
+night Theo left; the job has been a lifeline dressed as an obligation; Mar says the lock on Nell's life
+is on the *inside*. Ch.6 sets it up hard: Mar has already decided to spend her truth ("done keeping
+it"), so ch.7 opens with no stalling — the reveal itself, and what Nell does standing next to it.
+Continuity to hold: the undrawn bolt (don't quietly re-bolt her without meaning it), keys-on-the-dash,
+the refused job passing to a worse firm (Dani's clock is running toward ch.11).
