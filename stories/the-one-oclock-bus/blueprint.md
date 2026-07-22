@@ -78,7 +78,7 @@ driver, because delivery requires you to let it.
 2. **The Auditor.** Vera Brandt in daylight — her method, her wall of printouts, her plain
    creed (a fudged log is always somebody's cover) given its full, fair weight. She schedules
    ride-alongs. The same week, Priya Nair is assigned to Abel's cab for night training. Two
-   watchers now, one of whom cannot be lied to and one of whom shouldn't be.
+   watchers now, one of whom cannot be lied to and one of whom shouldn't be. *(written)*
 3. **The Rules of the Hour.** Training nights. Abel's covenant — *drive the route as printed* — and
    the trade behind it. Priya spots the hour on her second night; Abel denies it to her face, his
    first lie told to someone he respects, and feels the difference. The bus, unasked, opens its

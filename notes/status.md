@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.7.0` (single source of truth: repo-root `VERSION`).
+**Version:** `0.7.1` (single source of truth: repo-root `VERSION`).
 
 **Automation:** the farm loop now runs unattended via a **daily scheduled job (midnight,
 America/Denver)** — grow 2 books, plant one when 3+ days have passed, **auto-publish to `main`**.
@@ -28,7 +28,7 @@ coin CSS ported into `assets/reader.css`. Local `fairyfox:coins:a` disclosed in 
 clause in Terms, hub `/legal/coins/` linked. This was **Phase 2** of the fairyfox-standards adoption (Phase 1
 = the standards batch in v0.5.6); built + previewed in a connected-Chrome session.
 
-## The shelf (as of v0.7.0)
+## The shelf (as of v0.7.1)
 
 | Book | Form | Progress | Last grown |
 |------|------|----------|-----------|
@@ -40,9 +40,25 @@ clause in Terms, hub `/legal/coins/` linked. This was **Phase 2** of the fairyfo
 | The Cinderwick Job (caper) | novelette | 6 / 7 | 2026-07-18 |
 | The Blindfold Act (mystery · sequel-locked) | novelette | 3 / 6 | 2026-07-19 |
 | The Hundredth Wind (fable) | novelette | 2 / 7 | 2026-07-20 |
-| **The One-O'Clock Bus** (magical realism · **sequel to *Launderette***) | novella | 1 / 10 | 2026-07-21 |
+| **The One-O'Clock Bus** (magical realism · **sequel to *Launderette***) | novella | 2 / 10 | 2026-07-22 |
 
-**Nine books — three `complete`, six `growing`.** Latest run **07-21 second run (v0.7.0, plant)**:
+**Nine books — three `complete`, six `growing`.** Latest run **07-22 (v0.7.1, grow)**: *The
+One-O'Clock Bus* **ch.2 "The Auditor"** (2/10) — and **the random override fired for the first time
+in the farm's history** (roll `3` vs ≤18; random pick `5` of 6 → the Bus, which sat **fourth** on the
+blend at 0.575 behind *Wintering* 0.682 / *Blindfold* 0.625 / *Hundredth Wind* 0.607). A day-old book
+took the day off the staleness leader — exactly what the mechanism exists for. Vera Brandt made
+formidable before she's answered: three agreeing telemetry series (odometer / fuel / door-cycles),
+11.4 miles four nights in five and 12–16 on the fifth; the log praised sincerely and called "not a
+compliment, a finding"; her creed paid for with a care-transport case (a fudged *rota only*, kindly
+meant, a stranger under it) — *a public record is what people with no power have instead of power*.
+The turn is the flaw at small scale: the one amnesty declined ("The route runs as printed" — she
+writes down the answer **and the pause**), then **Vera finds the 01:26 Corvus Road crawl herself**
+and offers *helpfully* to make it a timing point, and Abel says **"No. Nothing there."** His first
+outright lie is told in daylight, to a fair person, and isn't about the hour at all. Priya lands as
+the second watcher (same six weeks; already reading the cab, and the blue notebook's corner).
+Plants: Vera **doesn't drive**; ride-alongs = three scheduled + one unannounced. **Chrome was
+connected** — see the eyeball item below, which is now largely paid. Full audit in
+`sessions/2026-07/2026-07-22.md`. Before that, **07-21 second run (v0.7.0, plant)**:
 **The One-O'Clock Bus** — the farm's **first sequel plant**, taking the first of the two queued
 sequel windows (sequel-pick override `68` → no override; staleness picked *Launderette*, tended
 07-14, over *Girl*, 07-17). Magical realism **novella** (form `74`; word-pick `29` → wordCap 24,000;
@@ -131,13 +147,18 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   design should be distinct from both). While its sequel is growing, the *Launderette* series stays
   out of the weekly roll (as does *Girl* while pending), leaving *Cartographer* the only roller.
   **Next weekly roll due on or after 2026-07-28.**
-- **The One-O'Clock Bus is at 1/10 — ch.2 "The Auditor" is next**: Vera Brandt in daylight, her
-  fair creed given full weight; Priya Nair assigned to Abel's cab the same week — two watchers, one
-  who can't be lied to and one who shouldn't be. Ch.1 canon to honour is in the book-notes
-  continuity ledger (the fuel-island clock, Bus 17's terms, the hour's spoken-truth fare, Corvus
-  Road's four-words-a-night entry, "thirteen minutes late is a defensible lie," the planted
-  aphorism about self-auditing for ch.8–9). Chapter map + style dials in
-  `notes/books/the-one-oclock-bus/book-notes.md`.
+- **The One-O'Clock Bus is at 2/10 (grown 07-22) — ch.3 "The Rules of the Hour" is next**: training
+  nights; Abel's covenant *drive the route as printed* and the trade behind it; **Priya spots the
+  hour on her second night and Abel denies it to her face** — his first lie to someone he respects,
+  and he feels the difference from the ch.2 lie told to Vera (that one was cheap; this one isn't).
+  The bus opens its doors **unasked** on Corvus Road and he drives on. Ends with Priya finding the
+  blue notebook — already set up honestly in ch.2 (she clocked its corner under the duty cards on
+  day one, so the find is observation, not coincidence). New ch.2 canon to honour is in the
+  book-notes ledger: the Corvus lie (**"Nothing there"** — the debt ch.5/ch.8 collect), Marchgate's
+  exactly-right clock vs the depot's fast one, Vera's three telemetry series + the 11.4-mile
+  baseline, her **not driving**, the **three scheduled + one unannounced** ride-alongs, the
+  irregularity-vs-finding amnesty already spent, and Priya's six-week card. Still unspent: the
+  blue-book aphorism (ch.8–9), Efua/Ama/the letter (ch.5), Nadia (ch.5).
 - **The Blindfold Act is at its midpoint (3/6, grown 07-19) — ch.4 "The Understudy" is next**, the
   complicity beat: no new clue needed (ch.3 closed on the class-roll narrowing and the lamp put out) —
   only the courage to stop crediting the alibi Sonora wrote for the girl. The relock-trick + the stove
@@ -190,7 +211,21 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   `6e78be5` at the start of the 07-17 run. On the **v0.4.2 release it went green on the first attempt
   in 42s** — the retry (6×/30s) absorbing the by-design race where `branch-sync` checks `dev` in the
   seconds before the back-merge lands, exactly as designed. **Closed; no longer watch-listed.**
-- **Deferred eyeball (07-11 → 07-21):** Chrome wasn't connected on most recent runs (eleven grow runs + the
+- **Deferred eyeball — LARGELY PAID (07-22).** Chrome **was** connected this run, and the reading
+  surfaces were read in a browser for the first time since 07-11: the new **ch.2 page** (drop cap,
+  12-min-read, "Chapter 2 of 10", measure/leading clean, no overflow, footer nav correct at the
+  book's true last written chapter — prev + "Back to the book", no dangling next), the **Bus book
+  landing** (cover, **20%** progress bar, "2 of 10 chapters written", mesh row), and **the whole
+  shelf** — all nine cards, and **all nine covers now render** (the titled fallback is gone; the
+  07-18 *Blindfold*/*Hundredth Wind* art backfill is confirmed by eye at last). Chrome bundle bits
+  visible and behaving: coins counter, Farms dropdown. **What's still owed:** the *older* grown
+  chapter pages were not individually re-read (they share one template with ch.2, which is now
+  verified), and the **Phase 2 fairyfox items below still want their own dedicated pass** (reader
+  panel line-spacing/width un-locking on a chapter and on the legal pages, locked-with-note off a
+  story, Farms dropdown on mobile, the `/legal/coins/` link). Two cosmetic findings were logged to
+  `plans/` rather than fixed mid-grow: covers are **1.3–1.9 MB PNGs** and lazy-load as grey cards on
+  a cold scroll, and a card's **universe label clips without an ellipsis** at some widths. Prior
+  wording kept below for the record. Chrome wasn't connected on most recent runs (eleven grow runs + the
   07-15, 07-18, and 07-21 plants — the 07-18 plant adds the *Hundredth Wind* card/landing/blueprint/ch.1 to the
   debt, 07-19 adds *Blindfold* ch.3, 07-21 adds *Every Lock* ch.6 **and the whole of *The One-O'Clock
   Bus* (card/landing/blueprint/ch.1 + its first `sequelTo` marking)**), so new pages were verified
