@@ -14,7 +14,7 @@ sequelTo: the-two-oclock-launderette
 cover: /stories/the-one-oclock-bus/art/cover.png
 logline: For eleven years the Route 9 night bus has gone where its passengers need instead of where they asked — and its driver has covered every impossible mile with a false log. Then the auditor arrives.
 content_note: Quiet stakes carried seriously — a falsified record, an estranged daughter, one missed goodbye. Nothing graphic, no despair; tense in the honest places, warm at the door.
-updated: 2026-07-21
+updated: 2026-07-22
 date: 2026-07-21
 ---
 

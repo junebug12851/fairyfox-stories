@@ -20,6 +20,18 @@ two live releases (v0.2.0, v0.2.2) are **done**. The farm is in its **daily grow
    release never rides on an untested workflow change; review + merge (ideally on a run with no
    content release, or verify the deploy after).
 
+4. **Shelf cosmetics — two findings from the 07-22 browser pass** (small, non-blocking, deliberately
+   not fixed mid-grow-run):
+   - **Cover weight.** The nine cards each pull a **1.3–1.9 MB PNG** (~13 MB of cover art on the
+     shelf). On a cold scroll they visibly lazy-load as grey placeholders before resolving. Worth a
+     generated thumbnail (e.g. a ~400px WebP alongside the full cover, `srcset` on the card, full
+     PNG kept for the book landing) — an `optimise-art.mjs` pass, not a hand edit.
+   - **Universe label clipping.** On a book card the universe name truncates **without an ellipsis**
+     at some widths ("The Salt Road", "Blackmoor" cut mid-word), while others ellipsise correctly
+     ("The Hollow Ho…"). Looks like the truncation is happening at the container edge rather than in
+     the label's own `text-overflow` rule. One CSS fix in `assets/` — but it's a **visual** change,
+     so it holds for a Chrome preview in the same run that ships it.
+
 ## Bench (ideas, not commitments)
 
 - `scripts/generate-chapter.mjs` — an OpenAI prose-drafting helper (chapters are currently

@@ -100,7 +100,7 @@ Humor dry, buried in the procedure. White space: section breaks at shift-points 
 ## Chapter map (10 — see blueprint for the public version)
 
 1. The Route as Printed *(written 07-21 — ch.1 proves the voice)*
-2. The Auditor — Vera's fair case; Priya assigned. Two watchers.
+2. The Auditor *(written 07-22)* — Vera's fair case; Priya assigned. Two watchers.
 3. The Rules of the Hour — first lie to Priya; doors open unasked on Corvus Road; she finds the
    blue book.
 4. The Blue Book — truth told at 3 a.m.; the ask (keep it off the record) heard for what it is.
@@ -132,3 +132,43 @@ Humor dry, buried in the procedure. White space: section breaks at shift-points 
   ch.8–9). Audit notice: "Telemetry reconciliation, eleven-year series. Auditor assigned:
   V. Brandt." Abel's registered reaction: not fear — the Corvus-corner feeling. Left work "off the
   clock, early" (first crack in the timetable man).
+- **Ch.2 canon (written 07-22):** Interview **Monday 11:00, Marchgate House, Room 4.11**; the
+  letter said **"bring nothing."** Marchgate's lobby clock is **exactly right** — the deliberate
+  counterweight to the depot's ninety-seconds-fast fuel-island clock (Abel's "clocks are allowed
+  their minutes" belief, named and dented). Abel sleeps **07:00–15:00**; daylight is a shift he
+  doesn't own.
+- **Vera fixed on the page:** fifties, grey cardigan, glasses on a nose, two biros. **Twenty-two
+  years** auditing. Her evidence is three independent series that *agree*: odometer vs scheduled
+  distance, fuel vs distance, **door-cycle counts vs recorded boardings**. **Route 9 as printed =
+  11.4 miles**; as driven it's 11.4 four nights in five and **12–16 on the fifth (once 19)**. She
+  praises the log sincerely and calls it "not a compliment, a finding." Her case (told fairly, no
+  gore): **care transport, out west, nine years ago** — a fudged *rota only*, everyone kind, a
+  nineteen-hour stretch logged as eleven, a wall, a woman of eighty-one. Her creed enlarged from
+  the index card: *a public record is what people with no power have instead of power … the
+  somebody else is never in the room.*
+- **Vera does not drive.** Never has; uses the network. Planted flat, for the ch.6 ride-along and
+  the ch.9 off-duty ride — she is a *passenger*, which is why the hour can reach her.
+- **The offer, given once:** confess a practice now → *irregularity* (gets fixed); found in six
+  weeks → *finding* ("findings have names on them"). Abel declines with **"The route runs as
+  printed."** She writes down the answer **and the pause**.
+- **THE CH.2 TURN — the Corvus lie.** Vera has independently found the 01:26 walking-pace crawl
+  and calls it "the single most reliable thing on this route — more reliable than the depot gate,"
+  and offers, *helpfully*, to make it a timing point in the recommendations. Abel: **"No. Nothing
+  there."** His first outright lie of the book, in daylight, on the record, to a fair person — and
+  it is **not about the hour at all**. Ch.5 and ch.8 both collect on this: he forged eleven years
+  to protect the hour, and the one thing he lied *aloud* about was his daughter's street.
+- **Withdrawal stakes named by Vera:** "a night service that can't account for itself doesn't get
+  corrected. It gets withdrawn. There's no budget line for corrected." (Pays in ch.8's findings.)
+- **Ride-along terms set:** **three scheduled + one unannounced**. Ch.6 is a scheduled one; the
+  unannounced one is available for ch.7's second inspection ride.
+- **Priya fixed on the page:** duty card reads *"Night relief training, Route 9. Driver P. Nair to
+  accompany A. Mensah from Mon. **Six weeks**"* — the same six weeks as the audit. Came in early,
+  chips at half four, feet on the bulkhead; **reads the cab rather than glances at it, and has
+  already clocked the blue notebook's corner under the duty cards** (sets up ch.3's find honestly).
+  Her wrong-right question in ch.2 is the *coach station* one — why stand at a stop nobody uses at
+  one in the morning ("There's a stop. So we stand at it.") — the smaller cousin of the Corvus Road
+  question the book turns on. **Do not let her ask the Corvus question until ch.3.**
+- **Still guarded / unspent:** the blue-book aphorism (*a man who audits himself nightly…*) is
+  still held for ch.8–9. Efua, Ama, and the letter are unnamed on the page through ch.2 — Corvus
+  Road is still only a timing point in the narration, per the voice note. Nadia/the Wishy-Washy
+  remains a passing warm window (ch.1, ch.2 not needed) until her ch.5 scene.
