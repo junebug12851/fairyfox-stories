@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.7.1` (single source of truth: repo-root `VERSION`).
+**Version:** `0.7.2` (single source of truth: repo-root `VERSION`).
 
 **Automation:** the farm loop now runs unattended via a **daily scheduled job (midnight,
 America/Denver)** — grow 2 books, plant one when 3+ days have passed, **auto-publish to `main`**.
@@ -36,13 +36,29 @@ clause in Terms, hub `/legal/coins/` linked. This was **Phase 2** of the fairyfo
 | ✅ **The Girl Who Sold the Wind** (fable · **sequel pending**) | novelette | **5 / 5 — complete** | 2026-07-17 |
 | ✅ **The Cartographer of Decks** (SF) | novelette | **6 / 6 — complete** | 2026-07-17 |
 | **Every Lock but Hers** (magical realism) | novella | 6 / 11 | 2026-07-21 |
-| The Wintering House (gothic) | novella | 7 / 11 | 2026-07-18 |
+| **The Wintering House** (gothic) | novella | 8 / 11 | 2026-07-23 |
 | The Cinderwick Job (caper) | novelette | 6 / 7 | 2026-07-18 |
 | The Blindfold Act (mystery · sequel-locked) | novelette | 3 / 6 | 2026-07-19 |
 | The Hundredth Wind (fable) | novelette | 2 / 7 | 2026-07-20 |
 | **The One-O'Clock Bus** (magical realism · **sequel to *Launderette***) | novella | 2 / 10 | 2026-07-22 |
 
-**Nine books — three `complete`, six `growing`.** Latest run **07-22 (v0.7.1, grow)**: *The
+**Nine books — three `complete`, six `growing`.** Latest run **07-23 (v0.7.2, grow)**: *The
+Wintering House* **ch.8 "A Warm Death"** (8/11) — no override (roll `99` vs ≤18), the blend's
+staleness leader (0.682) rotated straight back in after losing 07-22 to the override. "The Secret"
+(ch.8–9) opens at the two scales ch.7's stolen facts couldn't reach: the **world's complicity** (the
+ch.6-planted New Year reading — Marchbank reads *the eleventh sermon, against immoderate grief, from
+the page as it lies*, never touching the book; "visiting the sick, or sitting down to table with the
+sickness"; *grief is a river — dam it, and it floods the fields you live from*; the moss-hand plant
+paid forward: dark hours, Saturday-to-Sunday, the beck path holds a frost footprint) — and the
+**second swallowed grief**: **Ada was Ada Hale, the housekeeper's daughter**, nineteen, keeper of the
+first fire, dead of a chest fever while eleven nights of asking never heard "no" and the warm room
+was never shared; north wall, where the wind is. Charlotte's ch.7 flinch is a kept promise ("I would
+not have my girl made a *she*"), and Mrs Hale hands Agnes the book's first exit — "**Keep your money,
+Miss Thorne**" — one chapter before ch.10's Offer prices staying. Two shipped continuity defects
+fixed (ch.1's stray "Mrs Aldous"; ch.7's "six-and-twenty" Charlotte → forty per ch.2), and the
+book-notes ledger backfilled with the missing ch.7 canon. Chrome not connected — prose-only change,
+rides the eyeball debt. Full audit in `sessions/2026-07/2026-07-23.md`. Before that, **07-22
+(v0.7.1, grow)**: *The
 One-O'Clock Bus* **ch.2 "The Auditor"** (2/10) — and **the random override fired for the first time
 in the farm's history** (roll `3` vs ≤18; random pick `5` of 6 → the Bus, which sat **fourth** on the
 blend at 0.575 behind *Wintering* 0.682 / *Blindfold* 0.625 / *Hundredth Wind* 0.607). A day-old book
@@ -171,9 +187,14 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   Ch.6 left her cornered in the sprung cellar with the fourth thing spent, Kit revealed loyal, and Crane's
   real want (her, not the bird) named — the trust-not-a-plan move is all that's left. **First completion
   since 07-17 will land here.**
-- **The two novellas are heading into their turns.** *The Wintering House* (7/11) has finished its
-  "Cracks" section and next enters **The Secret (ch.8–9)** — Agnes learns the full shape of what the
-  family keeps warm and that they mean her to become the next who tends it. *Every Lock but Hers* (6/11,
+- **The two novellas are heading into their turns.** *The Wintering House* (8/11, grown 07-23) is
+  inside **The Secret** — **ch.9 is next**: the Saturday-night frost watch pays off — the moss-hand
+  is **Aldous**, the one griever who knows where his mother is (the beck-path footprint plant from
+  ch.8); his side of the twelve years, and what the family means Agnes to become, setting ch.10's
+  Offer. New ch.8 canon to honour is in the book-notes ledger: Ada Hale (name never said in the
+  house; Charlotte's promise), Mrs Hale's "keep your money" exit, the eleventh sermon read yearly
+  from the unclosed book, Marchbank's river line, E.M. still unanswered (open-thread rule: not a
+  murder story). *Every Lock but Hers* (6/11,
   grown 07-21) next hits **ch.7 "What Mar Holds"** — daylight, Mar's office, the debt revealed (Mar
   covered for Nell the night Theo left; the lock on Nell's life is on the *inside*). Ch.6 set it up
   with no stalling left: Mar has already decided to spend her truth. Continuity to hold: Nell's own
@@ -228,7 +249,8 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   wording kept below for the record. Chrome wasn't connected on most recent runs (eleven grow runs + the
   07-15, 07-18, and 07-21 plants — the 07-18 plant adds the *Hundredth Wind* card/landing/blueprint/ch.1 to the
   debt, 07-19 adds *Blindfold* ch.3, 07-21 adds *Every Lock* ch.6 **and the whole of *The One-O'Clock
-  Bus* (card/landing/blueprint/ch.1 + its first `sequelTo` marking)**), so new pages were verified
+  Bus* (card/landing/blueprint/ch.1 + its first `sequelTo` marking)**, 07-23 adds *Wintering* ch.8 —
+  lower-risk since 07-22 verified the shared chapter template by eye), so new pages were verified
   structurally (`npm test`) and against
   the built Jekyll HTML but not read in a browser. All are prose + front-matter changes with no template or
   CSS edits — but the debt is now **twenty-seven grown chapter pages + the *Blindfold Act* card/ch.1 + the

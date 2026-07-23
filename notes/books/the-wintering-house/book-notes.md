@@ -53,4 +53,43 @@
   to the ground. An old woman, graveside-plain: *"There've been three or four of you… We don't see them
   come down."* (Still: where the companions went stays unanswered — not a murder story.) Rector is
   **Mr Marchbank**, comes up at the New Year to read to *her*.
-- **Status:** ch.6 of 11 written (ch.5–7 = "The Cracks"; ch.7 continues before "The Secret" at ch.8–9).
+- **Ch.7 (new canon, "The Hand at the Fire"; ledger backfilled 2026-07-23 — the 07-18 run wrote the
+  chapter but not this entry):** Agnes sits up and watches: **Charlotte is the hand at the night
+  fire** — down a little after two with a coal-scuttle, talks to the empty chair (workbasket, needle
+  twelve years in the cloth) in the present tense, banks the fire nightly. She starts a second name —
+  **"Ada was always cold, she felt it worse than —"** — and stops herself hard ("I said I wouldn't
+  say it and I shan't"). Ada ≠ Honoria; a *plain grieving was*, the ordinary tense of the actually
+  gone. Toward morning Agnes searches the box-room: **a workbox initialed "E.M."** with a letter
+  begun and never sent ("*Dearest Mother … I am to be quite one of the family, only there is one
+  thing I cannot make out about the house that I shall tell you when*" — stopped mid-word), so at
+  least two girls preceded her beyond the three in the picture. Thesis stated: no monster — "only
+  love that would not let a thing be over"; girls who "could not tell the difference, at first,
+  between being loved and being kept." Also canon: Susan (housemaid) frightened off fire questions;
+  Agnes's door-lifting trick; Charlotte's age **~forty** (a "six-and-twenty" slip shipped 07-18 was
+  corrected 07-23 against ch.2's "perhaps forty").
+- **Ch.8 (new canon, "A Warm Death"):** The Secret, part one — the world's complicity + the second
+  swallowed grief. **The New Year reading** (planted ch.6): Marchbank walks up in hard frost, the
+  house lights its once-a-year fires, procession to the warm room; he reads **the eleventh sermon —
+  against immoderate grief — from the page as it lies, never touching the book** (it's the sermon
+  *she was reading*; twelve years, same sermon, browned in the shape of the light); "A happy New
+  Year to you, ma'am" to the bed. His creed on the walk down: "visiting the sick or sitting down to
+  table with the sickness"; grief is a river — "dam it and it floods the fields you live from"; and
+  the **moss-keeping plant paid forward**: not him — done in the dark hours between a Saturday and a
+  Sunday, and *the beck path holds a frost footprint* (ch.9's opening: Agnes watches on the Saturday
+  night — the hand is meant to be **Aldous**, the one griever who knows where his mother is).
+  **Ada resolved: Ada Hale, Mrs Hale's daughter** — born in the laundry-loft the winter of the great
+  snow, always cold, nineteen when taken upstairs for the first keeping (first winter after Honoria
+  died, before any companion), minded the fire two years; a chest fever in the third winter; **eleven
+  nights Mrs Hale asked for her to be moved into the warm room — "never once said no … only never
+  done"** — she died the far side of the house, in the cold; north wall at Fellgate, where the wind
+  is. Afterward Charlotte laid a little evening fire in the laundry-loft and talked low to it; **Mrs
+  Hale raked it out** ("the only cruelty I ever did … and the kindest thing that's been done in it
+  since the mistress died") and took Charlotte's promise never to say the name — "**I would not have
+  my girl made a *she*. I'd sooner she were cold and mine than warm and theirs**" (this is why
+  Charlotte flinches in ch.7). Mrs Hale's price named: "I bought my warm death here … **Keep your
+  money, Miss Thorne**" — the first person to tell Agnes she can still leave. Chapter close/total:
+  the house chooses girls **because** the world would not miss them (E.M. had a "Dearest Mother" to
+  write to; Agnes has no letter anyone is waiting for). E.M.'s fate stays unanswered (open-thread
+  rule holds: not a murder story; "they went").
+- **Status:** ch.8 of 11 written ("The Secret" spans ch.8–9; ch.9 = the frost watch → Aldous at the
+  grave, the one who knows, and what the family means Agnes to become — setting ch.10's Offer).
