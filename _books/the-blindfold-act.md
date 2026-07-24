@@ -14,7 +14,7 @@ cover: /stories/the-blindfold-act/art/cover.png
 sequelLock: true
 logline: The carnival's mind-reader is a fraud who sees through everyone — until the show's owner turns up dead in his locked wagon, and the one truth she can't help reading points straight at the girl she loves.
 content_note: A carnival murder mystery — a death, grief, and a hard moral choice, all restrained and off-page. No gore, nothing graphic. Dark but not bleak.
-updated: 2026-07-19
+updated: 2026-07-24
 date: 2026-07-15
 ---
 

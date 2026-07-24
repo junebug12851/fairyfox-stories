@@ -91,10 +91,10 @@ bleak.
    voice + act established. Ends on Sonora deciding she'll read her own to keep them safe.
 2. **A Cold Reading** *(written 2026-07-17)* — sheriff fixes on Bruno; the code; Sonora starts the
    circle; Lark introduced with her planted tell.
-3. **The Tells** — deepen; false lead (fire-eater's debt / fortune-teller's grudge); money half-surfaces;
-   easy answers cleared.
-4. **The Understudy** — breath, then the turn: the relock-trick + Lark's tell. She knows. The
-   comfortable-monstrous option opens. (The complicity beat.)
+3. **The Tells** *(written 2026-07-19)* — deepen; false lead (fire-eater's debt / fortune-teller's
+   grudge); money half-surfaces; easy answers cleared.
+4. **The Understudy** *(written 2026-07-24)* — breath, then the turn: the relock-trick + Lark's tell.
+   She knows. The comfortable-monstrous option opens. (The complicity beat.)
 5. **What She Taught Her** — Sonora + Lark alone; the truth of the night; the vise closes.
 6. **The Blindfold Act** — she refuses the easy thing; clears Bruno, squares it as accident without
    hanging Lark, buses her north with the stake; burns her standing, breaks the code, loses her place
@@ -190,6 +190,71 @@ bleak.
   crediting the alibi she wrote.
 - **Lark does not appear on-page in ch.3** — deliberate: the chapter is the machine and the false lead;
   her absence *is* the dread. Ch.4 ("The Understudy") reopens on her.
+
+## Ch.4 — new canon (2026-07-24)
+
+- **Opening doctrine held (ch.4–6 pattern):** ch.4 opens on **the understudy** — every act has one;
+  a show that stops starves, so nothing is allowed to be the only one of itself; you teach your
+  understudy *on purpose*, hand over hand ("a professional would sooner be replaced well than mourned
+  badly"). Turned against Sonora: she "trained her own replacement and taught the girl, first week,
+  how to lock a door from the outside." Lark = Sonora's understudy who learned the act too well.
+- **No new clue — this is the complicity beat, by design.** Ch.4 adds no evidence; per plan, Sonora
+  has had every clue since the third morning (spare-hasp · kerosene hide · bills-kept/coin-buried ·
+  the doorway). Ch.4 is the *courage to stop crediting the alibi she wrote*. Stated in the prose: "A
+  cold reader does not gather evidence to learn the truth. She gathers it to be *allowed* the truth …
+  so that when she finally acts on the thing she knew for free she can call herself the one who sees
+  instead of the one who was told and covered her ears."
+- **THE MONSTROUS-COMFORTABLE OPTION, reconciled with ch.3's Bruno-clearing — the split-crime
+  theory.** Ch.3 came off Bruno for the *robbery* (coin stayed on the lot). Ch.4's tired-sheriff
+  pivot **splits the two crimes**: an inside carny was light-fingered with the take (ugly, settled
+  quiet, no rope), and **the Colonel's death is set back on Bruno** — the outsider the town wants for
+  the locked wagon. Dell aims it without a word (sad-about-outsiders patter over the fourth supper;
+  offers Bruno's never-seen temper as proof of the temper). This keeps ch.3 intact AND honours the
+  blueprint's "let Bruno hang, keep the girl." **The ch.3 plant pays here:** "Cleared is not brought
+  back … a man already standing outside the circle is a man already halfway to the tree." Bruno at the
+  tent flap all week; the circle need only keep not making room.
+- **The price of Sonora's soul, "marked down to nothing."** The monstrous option costs her **nothing
+  and requires no act** — she need only keep the gaff she has kept since ch.1 (the spare-hasp reading
+  withheld from the sheriff). "It was not a new sin. It was the same old silence, kept one week
+  longer … I had already paid for it in advance, fifteen years ago, when I decided that not-looking
+  was a thing a person could do for a living and call it seeing." The reward is real and named: the
+  show rolls Friday whole, and she keeps **Lark, alive, unhung**. Keep this framing — the horror is
+  that the monstrous thing is a *continuation of her defining flaw*, not a new deed.
+- **The spare-hasp, re-read at the roped-off pay-wagon.** Fair-play reinforced: the Colonel was a
+  *jammer* (drove the shackle with his heel, "a lock the Colonel set looked angry"); this lock was set
+  soft, the spare turn taken — Sonora's own courtesy ("*close it like you're apologizing to it,
+  child; a lock that's been forced hates you and a lock that's been asked stays friends.*"). Taught
+  only to a short roll of trusted hands, and of them only one has "light feet, a bruise she wouldn't
+  name, no road behind her." The "half the lot" line (ch.3) is now openly named as the lie she knew
+  it was.
+- **Lark's SECOND tell — taken deliberately, and it's the *absence* of the first.** New mechanic:
+  on the first morning (ch.2) her hands stopped / thumb lifted / she looked at the stove — a frightened
+  child, wall still going up. Four days later Sonora drops the Colonel's name near her on purpose and
+  **her hands do NOT stop** — the arranged calm is now flawless. The one slip only the teacher can
+  read: **her breath does not change at all**, and "the only people who manage their breath are people
+  who have been taught to, and I taught her that too" (*"hide it in your chest … breathe like the
+  boredest woman in the tent"*). The tell is that the tell is gone — the understudy has finished
+  learning the act. This is heartbreak-only evidence: reads solely to Sonora, proves nothing to a court.
+- **Lark on-page (ch.3 promised ch.4 "reopens on her").** She's at the cook-house cutting bread — her
+  established large-world reflex (a task with an end). Observed only; **the mechanics of the night are
+  NOT spoken here** — that's ch.5. Ch.4 ends with Sonora summoning her ("Come to my wagon … when
+  you've finished the bread"), the knife going still "the way a clock goes still, all at once and on
+  purpose."
+- **Why she refuses the free nothing — NOT virtue (guard this hard).** Explicit anti-nobility: "I
+  have looked for my virtue in that moment for the rest of my life and it is not there." The flaw that
+  saves Bruno is the same one that doomed her: **she cannot leave a face unread.** "To take the
+  nothing-priced way out I would have had to be the fraud I have always let people think I am … and
+  the whole cursed engine of me is that I am not a fraud, I only wish I were." She can keep the gaff
+  from the sheriff; she cannot keep it from Lark or from herself. She goes to Lark **with no plan and
+  no nobility** ("I want no credit for a courage I did not yet have") — sets up ch.5's confrontation.
+- **The doorway rhyme continues:** she summons Lark from *a doorway* — "the same shape of frame she
+  had stood in offering me all of this for free." The ch.2 refusal is the debt every later chapter
+  collects.
+- **Closing image (Bruno):** he "did not know he was watching his own trial walk away into the dark
+  to make up its mind." Ch.5 = the confrontation; ch.6 must still remember Bruno at the flap and make
+  his clearing cost *Sonora*.
+- **Length ~2,600 words.** Ration held: the patter runs, then the bare lines land ("It hurt." / "On
+  Bruno."). Ada Prewitt NOT used this chapter (saving the name-coming-off-the-act for ch.6).
 
 ## Style dials (hold every chapter)
 

@@ -2,7 +2,7 @@
 
 _Current state only._ For history see `sessions/`; for the changelog see `version.md`.
 
-**Version:** `0.7.2` (single source of truth: repo-root `VERSION`).
+**Version:** `0.7.3` (single source of truth: repo-root `VERSION`).
 
 **Automation:** the farm loop now runs unattended via a **daily scheduled job (midnight,
 America/Denver)** — grow 2 books, plant one when 3+ days have passed, **auto-publish to `main`**.
@@ -28,7 +28,7 @@ coin CSS ported into `assets/reader.css`. Local `fairyfox:coins:a` disclosed in 
 clause in Terms, hub `/legal/coins/` linked. This was **Phase 2** of the fairyfox-standards adoption (Phase 1
 = the standards batch in v0.5.6); built + previewed in a connected-Chrome session.
 
-## The shelf (as of v0.7.1)
+## The shelf (as of v0.7.3)
 
 | Book | Form | Progress | Last grown |
 |------|------|----------|-----------|
@@ -38,11 +38,29 @@ clause in Terms, hub `/legal/coins/` linked. This was **Phase 2** of the fairyfo
 | **Every Lock but Hers** (magical realism) | novella | 6 / 11 | 2026-07-21 |
 | **The Wintering House** (gothic) | novella | 8 / 11 | 2026-07-23 |
 | The Cinderwick Job (caper) | novelette | 6 / 7 | 2026-07-18 |
-| The Blindfold Act (mystery · sequel-locked) | novelette | 3 / 6 | 2026-07-19 |
+| The Blindfold Act (mystery · sequel-locked) | novelette | 4 / 6 | 2026-07-24 |
 | The Hundredth Wind (fable) | novelette | 2 / 7 | 2026-07-20 |
 | **The One-O'Clock Bus** (magical realism · **sequel to *Launderette***) | novella | 2 / 10 | 2026-07-22 |
 
-**Nine books — three `complete`, six `growing`.** Latest run **07-23 (v0.7.2, grow)**: *The
+**Nine books — three `complete`, six `growing`.** Latest run **07-24 (v0.7.3, grow)**: *The Blindfold
+Act* **ch.4 "The Understudy"** (4/6) — and **the random override fired for the second time in the
+farm's history** (roll `9` vs ≤18; random pick `2` of 6 alphabetically → the Blindfold Act, which sat
+**second** on the blend at 0.667 behind *Hundredth Wind* 0.690). A *modest* override this time — the
+day's near-leader, not the wild fourth-place swing 07-22 was. The book's **complicity beat**, by
+design adding **no new clue**: Sonora has had every fact since the third morning, so ch.4 is the
+courage to stop crediting the alibi she wrote for Lark. Opens on the **understudy** doctrine (Lark
+learned Sonora's act too well) and reconciles ch.3's Bruno-clearing with the blueprint's "let Bruno
+hang" via the tired sheriff's **split-crime pivot** (inside pilfering + the *death* set back on the
+outsider Bruno, Dell aiming it wordless — "cleared is not brought back … a man already outside the
+circle is halfway to the tree"). The monstrous-comfortable option is priced at **nothing and requires
+no act** — keep the spare-hasp gaff held since ch.1 and Bruno hangs, the show rolls, she keeps Lark
+alive: "the same old silence, kept one week longer." Lark's **second tell** is the *absence* of the
+first (four days on, her hands don't stop and her breath doesn't change — the flawless managed calm
+only the teacher reads as heartbreak). She refuses **not from virtue** but because she cannot leave a
+face unread; ends summoning Lark from a doorway (the ch.2 rhyme), Bruno at the flap "watching his own
+trial walk away into the dark to make up its mind." Sets ch.5. `npm test` green (6 + check-links, 50
+files). Chrome not connected — prose-only change, rides the eyeball debt. Full audit in
+`sessions/2026-07/2026-07-24.md`. Before that, **07-23 (v0.7.2, grow)**: *The
 Wintering House* **ch.8 "A Warm Death"** (8/11) — no override (roll `99` vs ≤18), the blend's
 staleness leader (0.682) rotated straight back in after losing 07-22 to the override. "The Secret"
 (ch.8–9) opens at the two scales ch.7's stolen facts couldn't reach: the **world's complicity** (the
@@ -175,12 +193,19 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
   baseline, her **not driving**, the **three scheduled + one unannounced** ride-alongs, the
   irregularity-vs-finding amnesty already spent, and Priya's six-week card. Still unspent: the
   blue-book aphorism (ch.8–9), Efua/Ama/the letter (ch.5), Nadia (ch.5).
-- **The Blindfold Act is at its midpoint (3/6, grown 07-19) — ch.4 "The Understudy" is next**, the
-  complicity beat: no new clue needed (ch.3 closed on the class-roll narrowing and the lamp put out) —
-  only the courage to stop crediting the alibi Sonora wrote for the girl. The relock-trick + the stove
-  tell converge; the comfortable-monstrous option opens. Ch.3's new canon to honour: Perro cleared but
-  ruined-small ("You could have asked me quiet"), Bruno cleared but not brought back inside (ch.6 must
-  remember him at the tent flap), Sonora's standing with Dell/the wall now burning.
+- **The Blindfold Act is past its midpoint (4/6, grown 07-24) — ch.5 "What She Taught Her" is next**,
+  the confrontation: **Sonora + Lark alone**, the truth of that night comes out from the girl's own
+  mouth (the skim discovered → cornered in the wagon → the threat to send her back → the shove → the
+  fall against the iron stove — accident born of terror, off-page/recounted, never depicted). The vise
+  closes: the act Sonora loves, the family, the road — against the girl. Ch.4's new canon to honour is
+  in the book-notes ledger: the **split-crime pivot** (inside pilfering + the Colonel's death set back
+  on **Bruno**, who is now in real danger — ch.6's clearing of Bruno must cost *Sonora*, not indict a
+  villain); the **spare-hasp gaff still withheld from the sheriff**; Lark's **wall now flawless** (she
+  manages her breath — the ch.5 confrontation must break *that*, not a face); Sonora went to her **with
+  no plan and no nobility** (the confrontation can't hand her a courage she doesn't have yet — that's
+  ch.6). Ch.5 must land against the ch.2 debt: **Lark already tried to tell her once**, in a doorway,
+  for free, and Sonora refused it — so the truth arriving now is expensive, and Sonora knows it.
+  Sonora's given name (**Ada Prewitt**) still rationed; the name coming off the act is a ch.6 move.
 - **Cinderwick is one chapter from done.** At 6/7 the caper's finale, **ch.7 "The Name,"** is next
   whenever it's picked — Juno wins not by out-thieving Crane but by trusting Kit out loud and giving up
   the solo score; the Nightingale ends somewhere Crane can't reach; a door left ajar, not a sequel hook.
@@ -272,7 +297,7 @@ on the shelf). Full audit in `sessions/2026-07/2026-07-18.md`.
 | Authors / universes / characters | ✅ 6 author-personas (Amara Okri and **Idris Okonkwo-Vance** each have two books; Idris is the second author to span realms, 07-21), 6 universes (the Salt Road two books; **the Hollow Hours three** — first three-book realm, 07-21), 21 character pages (Abel Mensah + Vera Brandt + Priya Nair added 07-21) — meshed + bylined |
 | Cover & chapter art | ✅ **all 9 books have a cover + ch.1 header** (gpt-image-1 via `scripts/generate-art.mjs`) — *The Blindfold Act* and *The Hundredth Wind* backfilled 07-18. The **PLANT task now auto-generates** cover+header for every new book (headers at 1536×1024, not dall-e-3's 1792×1024), so no more text-only fallbacks |
 | Integrity check + CI | ✅ `scripts/check-stories.test.mjs` green (**6 checks** — state/sequel-lock consistency added 07-17), runs on push/PR |
-| GitHub Pages (`fairyfox.io/fairyfox-stories/`) | ✅ live (deploys on tagged release to `main`); last release **v0.7.0**, 2026-07-21 |
+| GitHub Pages (`fairyfox.io/fairyfox-stories/`) | ✅ live (deploys on tagged release to `main`); last release **v0.7.3**, 2026-07-24 |
 | Hub registration | ⛔ pending (hub-side edit) |
 | Writing/art tooling (`.env` OpenAI key) | ✅ `.env` key present; art via `generate-art.mjs` (prose hand-drafted for now) |
 | Self-hosted fonts / no third-party | ✅ vendored from the mesh |
